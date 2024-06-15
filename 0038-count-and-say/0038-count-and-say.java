@@ -1,30 +1,21 @@
 class Solution {
-    public String countAndSay(int n) {
-        String digitString = "1";
-        if(n == 1)   
-        {
-            return digitString;
-        }
-        for(int i = 1; i < n; i ++)
-        {
-            String temp = digitString;   
-            digitString = "";
-            int j = 0; 
-            char prevDigit = temp.charAt(0);
-            int freq = 1;
-            int len = temp.length();
-            while(j < len)
-            {
-                prevDigit = temp.charAt(j);
-                freq = 0;
-                while((j < len) && (temp.charAt(j) == prevDigit))
-                {
-                    freq ++;
-                    j ++;
-                }
-                digitString = digitString + (freq) + prevDigit;
+    public String helper(String str){
+        StringBuilder sb=new StringBuilder();
+        int count;
+        int n=str.length();
+        for(int i=0,j=0;i<n;i=j){
+            while(j<n&&str.charAt(j)==str.charAt(i)){
+                j++;
             }
+            sb.append(j-i).append(str.charAt(i));
         }
-        return digitString;
+        return sb.toString();
+    }
+    public String countAndSay(int n) {
+        String str="1";
+        while(n-->1){
+            str=helper(str);
+        }
+        return str;
     }
 }
