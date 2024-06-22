@@ -28,7 +28,17 @@ class Solution {
     }
     public int minCut(String s) {
         int[] dp=new int[s.length()+1];
-        Arrays.fill(dp,-1);
-        return count(0,s,dp);
+        dp[s.length()]=-1;
+        for(int i=s.length()-1;i>=0;i--){
+            int min=Integer.MAX_VALUE;
+            for(int j=i;j<s.length();j++){
+                if(palindrome(i,j,s)==true){
+                    int left=1+dp[j+1];
+                    min=Math.min(min,left);
+                }
+            }
+            dp[i]=min;
+        }
+        return dp[0];
     }
 }
