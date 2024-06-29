@@ -1,11 +1,11 @@
 class Solution {
     List<List<Integer>> ans=new ArrayList<>();
-    public void solve(int node,List<List<Integer>> adj,boolean[] vis,HashSet<Integer> set){
+    public void solve(int node,HashSet<Integer> set,List<List<Integer>> adj,boolean[] vis){
         vis[node]=true;
         for(int it:adj.get(node)){
-            if(vis[it]==false){
+            if(!vis[it]){
                 set.add(it);
-                solve(it,adj,vis,set);
+                solve(it,set,adj,vis);
             }
             set.add(it);
         }
@@ -15,14 +15,14 @@ class Solution {
         for(int i=0;i<n;i++){
             adj.add(new ArrayList<>());
         }
-        for(int[] e:edges){
-            adj.get(e[1]).add(e[0]);
+        for(int[] it:edges){
+            adj.get(it[1]).add(it[0]);
         }
         for(int i=0;i<n;i++){
             boolean[] vis=new boolean[n];
             HashSet<Integer> set=new HashSet<>();
-            solve(i,adj,vis,set);
-            ArrayList<Integer> ds=new ArrayList<>(set);
+            solve(i,set,adj,vis);
+            List<Integer> ds=new ArrayList<>(set);
             Collections.sort(ds);
             ans.add(ds);
         }
