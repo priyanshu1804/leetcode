@@ -1,3 +1,13 @@
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
         ArrayList<Integer> ans=new ArrayList<>();
@@ -7,12 +17,12 @@ class Solution {
             int curr=head.val;
             if(head.next!=null){
                 int next=head.next.val;
-                if((prev>curr&&next>curr)||(prev<curr&&next<curr)){
+                if((prev>curr&&curr<next)||(prev<curr&&curr>next)){
                     ans.add(i);
                 }
             }
-            prev=curr;
             i++;
+            prev=curr;
             head=head.next;
         }
         if(ans.size()<2){
