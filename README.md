@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/priyanshu1520/leetcode/tree/master/1642-water-bottles) |
+| [2383-add-two-integers](https://github.com/priyanshu1520/leetcode/tree/master/2383-add-two-integers) |
 | [2645-pass-the-pillow](https://github.com/priyanshu1520/leetcode/tree/master/2645-pass-the-pillow) |
 ## String
 |  |
