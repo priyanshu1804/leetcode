@@ -31,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshu1520/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1254-deepest-leaves-sum](https://github.com/priyanshu1520/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/priyanshu1520/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshu1520/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1254-deepest-leaves-sum](https://github.com/priyanshu1520/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/priyanshu1520/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1324-where-will-the-ball-fall](https://github.com/priyanshu1520/leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/priyanshu1520/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/priyanshu1520/leetcode/tree/master/1720-crawler-log-folder) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/priyanshu1520/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/priyanshu1520/leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshu1520/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/priyanshu1520/leetcode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/priyanshu1520/leetcode/tree/master/0768-partition-labels) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/priyanshu1520/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
