@@ -17,10 +17,10 @@ class Solution {
     int count=0;
     public List<Integer> solve(TreeNode root,int d){
         if(root==null){
-            return new ArrayList<>();
+            return new ArrayList<>(0);
         }
         if(root.left==null&&root.right==null){
-            List<Integer> leaf=new ArrayList<>();
+            List<Integer> leaf=new ArrayList<>(1);
             leaf.add(1);
             return leaf;
         }
