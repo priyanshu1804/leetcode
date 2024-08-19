@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/priyanshu1520/leetcode/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/priyanshu1520/leetcode/tree/master/0650-2-keys-keyboard) |
 | [1642-water-bottles](https://github.com/priyanshu1520/leetcode/tree/master/1642-water-bottles) |
 | [2383-add-two-integers](https://github.com/priyanshu1520/leetcode/tree/master/2383-add-two-integers) |
 | [2645-pass-the-pillow](https://github.com/priyanshu1520/leetcode/tree/master/2645-pass-the-pillow) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/priyanshu1520/leetcode/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/priyanshu1520/leetcode/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/priyanshu1520/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/priyanshu1520/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/priyanshu1520/leetcode/tree/master/1511-count-number-of-teams) |
