@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/priyanshu1520/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/priyanshu1520/leetcode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/priyanshu1520/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3442-maximum-total-reward-using-operations-i](https://github.com/priyanshu1520/leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/priyanshu1520/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/priyanshu1520/leetcode/tree/master/1511-count-number-of-teams) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/priyanshu1520/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [3442-maximum-total-reward-using-operations-i](https://github.com/priyanshu1520/leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
 ## Shortest Path
 |  |
 | ------- |
