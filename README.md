@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/priyanshu1520/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyanshu1520/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/priyanshu1520/leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/priyanshu1520/leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyanshu1520/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/priyanshu1520/leetcode/tree/master/3541-report-spam-message) |
 ## Hash Table
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/priyanshu1520/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/priyanshu1520/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/priyanshu1520/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/priyanshu1520/leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/priyanshu1520/leetcode/tree/master/2383-add-two-integers) |
 | [2645-pass-the-pillow](https://github.com/priyanshu1520/leetcode/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/priyanshu1520/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/priyanshu1520/leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## String
 |  |
 | ------- |
