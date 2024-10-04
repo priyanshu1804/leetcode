@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyanshu1520/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyanshu1520/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/priyanshu1520/leetcode/tree/master/3541-report-spam-message) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/priyanshu1520/leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/priyanshu1520/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyanshu1520/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3541-report-spam-message](https://github.com/priyanshu1520/leetcode/tree/master/3541-report-spam-message) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/priyanshu1520/leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Stack
 |  |
 | ------- |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/priyanshu1520/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/priyanshu1520/leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Strongly Connected Component
 |  |
 | ------- |
