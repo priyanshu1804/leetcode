@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/priyanshu1520/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/priyanshu1520/leetcode/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/priyanshu1520/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3561-remove-methods-from-project](https://github.com/priyanshu1520/leetcode/tree/master/3561-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/priyanshu1520/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/priyanshu1520/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/priyanshu1520/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/priyanshu1520/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/priyanshu1520/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/priyanshu1520/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Array
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/priyanshu1520/leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/priyanshu1520/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/priyanshu1520/leetcode/tree/master/2846-robot-collisions) |
+| [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Greedy
 |  |
 | ------- |
