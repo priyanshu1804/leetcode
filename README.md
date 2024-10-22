@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/priyanshu1520/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/priyanshu1520/leetcode/tree/master/0731-my-calendar-ii) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/priyanshu1520/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [0827-expressive-words](https://github.com/priyanshu1520/leetcode/tree/master/0827-expressive-words) |
 | [0859-design-circular-deque](https://github.com/priyanshu1520/leetcode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/priyanshu1520/leetcode/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/priyanshu1520/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/priyanshu1520/leetcode/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/priyanshu1520/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/priyanshu1520/leetcode/tree/master/0768-partition-labels) |
+| [0827-expressive-words](https://github.com/priyanshu1520/leetcode/tree/master/0827-expressive-words) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/priyanshu1520/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/priyanshu1520/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1520/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/priyanshu1520/leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/priyanshu1520/leetcode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/priyanshu1520/leetcode/tree/master/0768-partition-labels) |
+| [0827-expressive-words](https://github.com/priyanshu1520/leetcode/tree/master/0827-expressive-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/priyanshu1520/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/priyanshu1520/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priyanshu1520/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
