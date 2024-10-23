@@ -15,29 +15,29 @@
  */
 class Solution {
     HashMap<Integer,Integer> map=new HashMap<>();
-    public void dfs(TreeNode root,int depth){
+    public void solve(TreeNode root,int sum){
         if(root==null){
             return;
         }
-        map.put(depth,map.getOrDefault(depth,0)+root.val);
-        dfs(root.left,depth+1);
-        dfs(root.right,depth+1);
+        map.put(sum,map.getOrDefault(sum,0)+root.val);
+        solve(root.left,sum+1);
+        solve(root.right,sum+1);
     }
-    public void dfs1(TreeNode root,int depth,int sibling){
+    public void solve1(TreeNode root,int sum,int sum1){
         if(root==null){
             return;
         }
-        root.val=map.get(depth)-sibling;
-        sibling=(root.left==null?0:root.left.val)+(root.right==null?0:root.right.val);
-        dfs1(root.left,depth+1,sibling);
-        dfs1(root.right,depth+1,sibling);
+        root.val=map.get(sum)-sum1;
+        sum1=(root.left==null?0:root.left.val)+(root.right==null?0:root.right.val);
+        solve1(root.left,sum+1,sum1);
+        solve1(root.right,sum+1,sum1);
     }
     public TreeNode replaceValueInTree(TreeNode root) {
         if(root==null){
             return null;
         }
-        dfs(root,0);
-        dfs1(root,0,root.val);
+        solve(root,0);
+        solve1(root,0,root.val);
         return root;
     }
 }
