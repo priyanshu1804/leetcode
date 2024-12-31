@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/priyanshu1520/leetcode/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/priyanshu1520/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/priyanshu1520/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1025-minimum-cost-for-tickets](https://github.com/priyanshu1520/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1105-uncrossed-lines](https://github.com/priyanshu1520/leetcode/tree/master/1105-uncrossed-lines) |
 | [1196-filling-bookcase-shelves](https://github.com/priyanshu1520/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/priyanshu1520/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/priyanshu1520/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/priyanshu1520/leetcode/tree/master/0664-strange-printer) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priyanshu1520/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1025-minimum-cost-for-tickets](https://github.com/priyanshu1520/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1105-uncrossed-lines](https://github.com/priyanshu1520/leetcode/tree/master/1105-uncrossed-lines) |
 | [1196-filling-bookcase-shelves](https://github.com/priyanshu1520/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/priyanshu1520/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
