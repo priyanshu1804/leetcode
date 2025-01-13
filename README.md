@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/priyanshu1520/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/priyanshu1520/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1520/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1791-richest-customer-wealth](https://github.com/priyanshu1520/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/priyanshu1520/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/priyanshu1520/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/priyanshu1520/leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/priyanshu1520/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/priyanshu1520/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/priyanshu1520/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1791-richest-customer-wealth](https://github.com/priyanshu1520/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1972-rotating-the-box](https://github.com/priyanshu1520/leetcode/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/priyanshu1520/leetcode/tree/master/2035-count-sub-islands) |
 | [2089-maximum-matrix-sum](https://github.com/priyanshu1520/leetcode/tree/master/2089-maximum-matrix-sum) |
