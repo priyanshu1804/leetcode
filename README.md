@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/priyanshu1520/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/priyanshu1520/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/priyanshu1520/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3561-remove-methods-from-project](https://github.com/priyanshu1520/leetcode/tree/master/3561-remove-methods-from-project) |
 ## Breadth-First Search
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/priyanshu1520/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/priyanshu1520/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3561-remove-methods-from-project](https://github.com/priyanshu1520/leetcode/tree/master/3561-remove-methods-from-project) |
 ## Graph
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/priyanshu1520/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/priyanshu1520/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/priyanshu1520/leetcode/tree/master/2035-count-sub-islands) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/priyanshu1520/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/priyanshu1520/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/priyanshu1520/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/priyanshu1520/leetcode/tree/master/2846-robot-collisions) |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/priyanshu1520/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/priyanshu1520/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
