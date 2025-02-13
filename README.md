@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/priyanshu1520/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/priyanshu1520/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/priyanshu1520/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/priyanshu1520/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/priyanshu1520/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/priyanshu1520/leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/priyanshu1520/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2645-pass-the-pillow](https://github.com/priyanshu1520/leetcode/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/priyanshu1520/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/priyanshu1520/leetcode/tree/master/2846-robot-collisions) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/priyanshu1520/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/priyanshu1520/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/priyanshu1520/leetcode/tree/master/3447-clear-digits) |
 ## Math
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/priyanshu1520/leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/priyanshu1520/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/priyanshu1520/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
