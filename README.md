@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/priyanshu1520/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyanshu1520/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/priyanshu1520/leetcode/tree/master/3541-report-spam-message) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/priyanshu1520/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/priyanshu1520/leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Two Pointers
 |  |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/priyanshu1520/leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/priyanshu1520/leetcode/tree/master/3451-string-compression-iii) |
 | [3541-report-spam-message](https://github.com/priyanshu1520/leetcode/tree/master/3541-report-spam-message) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/priyanshu1520/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/priyanshu1520/leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Stack
 |  |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/priyanshu1520/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3483-alternating-groups-ii](https://github.com/priyanshu1520/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/priyanshu1520/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/priyanshu1520/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/priyanshu1520/leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Strongly Connected Component
 |  |
