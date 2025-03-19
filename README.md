@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/priyanshu1520/leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/priyanshu1520/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/priyanshu1520/leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/priyanshu1520/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/priyanshu1520/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/priyanshu1520/leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyanshu1520/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/priyanshu1520/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/priyanshu1520/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/priyanshu1520/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/priyanshu1520/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/priyanshu1520/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/priyanshu1520/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/priyanshu1520/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/priyanshu1520/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/priyanshu1520/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/priyanshu1520/leetcode/tree/master/3394-minimum-array-end) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/priyanshu1520/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/priyanshu1520/leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Prefix Sum
 |  |
@@ -800,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/priyanshu1520/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1520/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyanshu1520/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/priyanshu1520/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/priyanshu1520/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Number Theory
 |  |
@@ -846,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0859-design-circular-deque](https://github.com/priyanshu1520/leetcode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu1520/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/priyanshu1520/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
