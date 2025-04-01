@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/priyanshu1520/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/priyanshu1520/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/priyanshu1520/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2262-solving-questions-with-brainpower](https://github.com/priyanshu1520/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/priyanshu1520/leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/priyanshu1520/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -720,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2081-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/priyanshu1520/leetcode/tree/master/2081-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/priyanshu1520/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/priyanshu1520/leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2262-solving-questions-with-brainpower](https://github.com/priyanshu1520/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/priyanshu1520/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/priyanshu1520/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
