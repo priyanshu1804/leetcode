@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/priyanshu1520/leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/priyanshu1520/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/priyanshu1520/leetcode/tree/master/0787-sliding-puzzle) |
+| [0797-rabbits-in-forest](https://github.com/priyanshu1520/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/priyanshu1520/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0827-expressive-words](https://github.com/priyanshu1520/leetcode/tree/master/0827-expressive-words) |
 | [0854-making-a-large-island](https://github.com/priyanshu1520/leetcode/tree/master/0854-making-a-large-island) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/priyanshu1520/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/priyanshu1520/leetcode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/priyanshu1520/leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/priyanshu1520/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/priyanshu1520/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/priyanshu1520/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/priyanshu1520/leetcode/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/priyanshu1520/leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/priyanshu1520/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/priyanshu1520/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/priyanshu1520/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0890-lemonade-change](https://github.com/priyanshu1520/leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/priyanshu1520/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/priyanshu1520/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/priyanshu1520/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/priyanshu1520/leetcode/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/priyanshu1520/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/priyanshu1520/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu1520/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
