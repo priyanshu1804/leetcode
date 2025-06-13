@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/priyanshu1520/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/priyanshu1520/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/priyanshu1520/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/priyanshu1520/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/priyanshu1520/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/priyanshu1520/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/priyanshu1520/leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3643-zero-array-transformation-ii](https://github.com/priyanshu1520/leetcode/tree/master/3643-zero-array-transformation-ii) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/priyanshu1520/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshu1520/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/priyanshu1520/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/priyanshu1520/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/priyanshu1520/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/priyanshu1520/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
