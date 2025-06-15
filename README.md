@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/priyanshu1520/leetcode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1304-longest-happy-string](https://github.com/priyanshu1520/leetcode/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/priyanshu1520/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/priyanshu1520/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/priyanshu1520/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/priyanshu1520/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/priyanshu1520/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/priyanshu1520/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/priyanshu1520/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/priyanshu1520/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu1520/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/priyanshu1520/leetcode/tree/master/1642-water-bottles) |
 | [1879-maximum-score-from-removing-stones](https://github.com/priyanshu1520/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
