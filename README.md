@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/priyanshu1520/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/priyanshu1520/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/priyanshu1520/leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
+| [3885-count-special-triplets](https://github.com/priyanshu1520/leetcode/tree/master/3885-count-special-triplets) |
 ## Hash Table
 |  |
 | ------- |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/priyanshu1520/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/priyanshu1520/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/priyanshu1520/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3885-count-special-triplets](https://github.com/priyanshu1520/leetcode/tree/master/3885-count-special-triplets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/priyanshu1520/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/priyanshu1520/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/priyanshu1520/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3885-count-special-triplets](https://github.com/priyanshu1520/leetcode/tree/master/3885-count-special-triplets) |
 ## Dynamic Programming
 |  |
 | ------- |
