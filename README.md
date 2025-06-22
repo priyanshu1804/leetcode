@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/priyanshu1520/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/priyanshu1520/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0827-expressive-words](https://github.com/priyanshu1520/leetcode/tree/master/0827-expressive-words) |
+| [0828-chalkboard-xor-game](https://github.com/priyanshu1520/leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0854-making-a-large-island](https://github.com/priyanshu1520/leetcode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/priyanshu1520/leetcode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/priyanshu1520/leetcode/tree/master/0890-lemonade-change) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/priyanshu1520/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/priyanshu1520/leetcode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/priyanshu1520/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0828-chalkboard-xor-game](https://github.com/priyanshu1520/leetcode/tree/master/0828-chalkboard-xor-game) |
 | [1223-graph-connectivity-with-threshold](https://github.com/priyanshu1520/leetcode/tree/master/1223-graph-connectivity-with-threshold) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/priyanshu1520/leetcode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/priyanshu1520/leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
@@ -997,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/priyanshu1520/leetcode/tree/master/0476-number-complement) |
+| [0828-chalkboard-xor-game](https://github.com/priyanshu1520/leetcode/tree/master/0828-chalkboard-xor-game) |
 | [1435-xor-queries-of-a-subarray](https://github.com/priyanshu1520/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/priyanshu1520/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1520/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1047,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0828-chalkboard-xor-game](https://github.com/priyanshu1520/leetcode/tree/master/0828-chalkboard-xor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/priyanshu1520/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/priyanshu1520/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Recursion
@@ -1141,4 +1145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/priyanshu1520/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Game Theory
+|  |
+| ------- |
+| [0828-chalkboard-xor-game](https://github.com/priyanshu1520/leetcode/tree/master/0828-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
