@@ -669,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/priyanshu1520/leetcode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/priyanshu1520/leetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/priyanshu1520/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/priyanshu1520/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/priyanshu1520/leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2383-add-two-integers](https://github.com/priyanshu1520/leetcode/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -1121,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/priyanshu1520/leetcode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/priyanshu1520/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/priyanshu1520/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/priyanshu1520/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/priyanshu1520/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/priyanshu1520/leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2442-number-of-arithmetic-triplets](https://github.com/priyanshu1520/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
