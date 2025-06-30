@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/priyanshu1520/leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
 | [3885-count-special-triplets](https://github.com/priyanshu1520/leetcode/tree/master/3885-count-special-triplets) |
+| [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/priyanshu1520/leetcode/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/priyanshu1520/leetcode/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Hash Table
 |  |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/priyanshu1520/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/priyanshu1520/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/priyanshu1520/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/priyanshu1520/leetcode/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 ## Linked List
 |  |
 | ------- |
