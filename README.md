@@ -676,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/priyanshu1520/leetcode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/priyanshu1520/leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2196-reverse-nodes-in-even-length-groups](https://github.com/priyanshu1520/leetcode/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/priyanshu1520/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/priyanshu1520/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/priyanshu1520/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
