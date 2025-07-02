@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/priyanshu1520/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshu1520/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/priyanshu1520/leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/priyanshu1520/leetcode/tree/master/0695-max-area-of-island) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/priyanshu1520/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0854-making-a-large-island](https://github.com/priyanshu1520/leetcode/tree/master/0854-making-a-large-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/priyanshu1520/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshu1520/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/priyanshu1520/leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/priyanshu1520/leetcode/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/priyanshu1520/leetcode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/priyanshu1520/leetcode/tree/master/0854-making-a-large-island) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/priyanshu1520/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/priyanshu1520/leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/priyanshu1520/leetcode/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/priyanshu1520/leetcode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/priyanshu1520/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/priyanshu1520/leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/priyanshu1520/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/priyanshu1520/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0695-max-area-of-island](https://github.com/priyanshu1520/leetcode/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priyanshu1520/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/priyanshu1520/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/priyanshu1520/leetcode/tree/master/0729-my-calendar-i) |
@@ -894,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/priyanshu1520/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/priyanshu1520/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/priyanshu1520/leetcode/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/priyanshu1520/leetcode/tree/master/0787-sliding-puzzle) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/priyanshu1520/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0854-making-a-large-island](https://github.com/priyanshu1520/leetcode/tree/master/0854-making-a-large-island) |
