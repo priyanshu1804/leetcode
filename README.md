@@ -455,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/priyanshu1520/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1520/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1904-second-largest-digit-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/priyanshu1520/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/priyanshu1520/leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/priyanshu1520/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1804-maximum-binary-string-after-change](https://github.com/priyanshu1520/leetcode/tree/master/1804-maximum-binary-string-after-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/priyanshu1520/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/priyanshu1520/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1904-second-largest-digit-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/priyanshu1520/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/priyanshu1520/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/priyanshu1520/leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
