@@ -847,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/priyanshu1520/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/priyanshu1520/leetcode/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/priyanshu1520/leetcode/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/priyanshu1520/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/priyanshu1520/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/priyanshu1520/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
@@ -1024,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/priyanshu1520/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/priyanshu1520/leetcode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/priyanshu1520/leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/priyanshu1520/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/priyanshu1520/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3654-minimum-array-sum](https://github.com/priyanshu1520/leetcode/tree/master/3654-minimum-array-sum) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
@@ -1149,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyanshu1520/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2915-count-of-interesting-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/priyanshu1520/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/priyanshu1520/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/priyanshu1520/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
 ## Number Theory
