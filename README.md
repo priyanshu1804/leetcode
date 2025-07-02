@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/priyanshu1520/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/priyanshu1520/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/priyanshu1520/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/priyanshu1520/leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/priyanshu1520/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/priyanshu1520/leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/priyanshu1520/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/priyanshu1520/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/priyanshu1520/leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Greedy
 |  |
 | ------- |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/priyanshu1520/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/priyanshu1520/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/priyanshu1520/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/priyanshu1520/leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/priyanshu1520/leetcode/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 ## Linked List
 |  |
