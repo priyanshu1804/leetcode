@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/priyanshu1520/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/priyanshu1520/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/priyanshu1520/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/priyanshu1520/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/priyanshu1520/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshu1520/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/priyanshu1520/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/priyanshu1520/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/priyanshu1520/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshu1520/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/priyanshu1520/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/priyanshu1520/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1256-rank-transform-of-an-array](https://github.com/priyanshu1520/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshu1520/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/priyanshu1520/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/priyanshu1520/leetcode/tree/master/1304-longest-happy-string) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/priyanshu1520/leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/priyanshu1520/leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1502-construct-k-palindrome-strings](https://github.com/priyanshu1520/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/priyanshu1520/leetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/priyanshu1520/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
