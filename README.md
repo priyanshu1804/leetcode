@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshu1520/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/priyanshu1520/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/priyanshu1520/leetcode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/priyanshu1520/leetcode/tree/master/0744-network-delay-time) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/priyanshu1520/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0854-making-a-large-island](https://github.com/priyanshu1520/leetcode/tree/master/0854-making-a-large-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/priyanshu1520/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshu1520/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/priyanshu1520/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/priyanshu1520/leetcode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/priyanshu1520/leetcode/tree/master/0744-network-delay-time) |
 | [0787-sliding-puzzle](https://github.com/priyanshu1520/leetcode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/priyanshu1520/leetcode/tree/master/0854-making-a-large-island) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/priyanshu1520/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/priyanshu1520/leetcode/tree/master/0684-redundant-connection) |
+| [0744-network-delay-time](https://github.com/priyanshu1520/leetcode/tree/master/0744-network-delay-time) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/priyanshu1520/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/priyanshu1520/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/priyanshu1520/leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -937,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/priyanshu1520/leetcode/tree/master/0264-ugly-number-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/priyanshu1520/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/priyanshu1520/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0744-network-delay-time](https://github.com/priyanshu1520/leetcode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshu1520/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu1520/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/priyanshu1520/leetcode/tree/master/0948-sort-an-array) |
@@ -1053,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/priyanshu1520/leetcode/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/priyanshu1520/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/priyanshu1520/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/priyanshu1520/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
