@@ -769,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/priyanshu1520/leetcode/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/priyanshu1520/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/priyanshu1520/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/priyanshu1520/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/priyanshu1520/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/priyanshu1520/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/priyanshu1520/leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/priyanshu1520/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/priyanshu1520/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/priyanshu1520/leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/priyanshu1520/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/priyanshu1520/leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/priyanshu1520/leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2383-add-two-integers](https://github.com/priyanshu1520/leetcode/tree/master/2383-add-two-integers) |
