@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/priyanshu1520/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshu1520/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/priyanshu1520/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/priyanshu1520/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/priyanshu1520/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/priyanshu1520/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1333-sort-the-jumbled-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshu1520/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/priyanshu1520/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/priyanshu1520/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/priyanshu1520/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/priyanshu1520/leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/priyanshu1520/leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/priyanshu1520/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/priyanshu1520/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/priyanshu1520/leetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/priyanshu1520/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -1006,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/priyanshu1520/leetcode/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/priyanshu1520/leetcode/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/priyanshu1520/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/priyanshu1520/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1879-maximum-score-from-removing-stones](https://github.com/priyanshu1520/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/priyanshu1520/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/priyanshu1520/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
