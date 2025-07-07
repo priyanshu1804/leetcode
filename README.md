@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/priyanshu1520/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/priyanshu1520/leetcode/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/priyanshu1520/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/priyanshu1520/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/priyanshu1520/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0827-expressive-words](https://github.com/priyanshu1520/leetcode/tree/master/0827-expressive-words) |
 | [0828-chalkboard-xor-game](https://github.com/priyanshu1520/leetcode/tree/master/0828-chalkboard-xor-game) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/priyanshu1520/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/priyanshu1520/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/priyanshu1520/leetcode/tree/master/0768-partition-labels) |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/priyanshu1520/leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0827-expressive-words](https://github.com/priyanshu1520/leetcode/tree/master/0827-expressive-words) |
 | [0868-push-dominoes](https://github.com/priyanshu1520/leetcode/tree/master/0868-push-dominoes) |
 | [0958-sort-array-by-parity-ii](https://github.com/priyanshu1520/leetcode/tree/master/0958-sort-array-by-parity-ii) |
