@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshu1520/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/priyanshu1520/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/priyanshu1520/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0475-heaters](https://github.com/priyanshu1520/leetcode/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/priyanshu1520/leetcode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/priyanshu1520/leetcode/tree/master/0539-minimum-time-difference) |
 | [0554-brick-wall](https://github.com/priyanshu1520/leetcode/tree/master/0554-brick-wall) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/priyanshu1520/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/priyanshu1520/leetcode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshu1520/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0475-heaters](https://github.com/priyanshu1520/leetcode/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/priyanshu1520/leetcode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/priyanshu1520/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/priyanshu1520/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/priyanshu1520/leetcode/tree/master/0275-h-index-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshu1520/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/priyanshu1520/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0475-heaters](https://github.com/priyanshu1520/leetcode/tree/master/0475-heaters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priyanshu1520/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/priyanshu1520/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/priyanshu1520/leetcode/tree/master/0729-my-calendar-i) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshu1520/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/priyanshu1520/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/priyanshu1520/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0475-heaters](https://github.com/priyanshu1520/leetcode/tree/master/0475-heaters) |
 | [0539-minimum-time-difference](https://github.com/priyanshu1520/leetcode/tree/master/0539-minimum-time-difference) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/priyanshu1520/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0594-longest-harmonious-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/0594-longest-harmonious-subsequence) |
