@@ -1,20 +1,20 @@
 class Solution {
     public int trap(int[] height) {
         int n=height.length;
-        Stack<Integer> st=new Stack<>();
+        int[] pre=new int[n];
+        int[] suff=new int[n];
+        pre[0]=height[0];
+        for(int i=1;i<n;i++){
+            pre[i]=Math.max(pre[i-1],height[i]);
+        }
+        suff[n-1]=height[n-1];
+        for(int i=n-2;i>=0;i--){
+            suff[i]=Math.max(suff[i+1],height[i]);
+        }
         int ans=0;
         for(int i=0;i<n;i++){
-            while(!st.isEmpty()&&height[st.peek()]<height[i]){
-                int top=height[st.peek()];
-                st.pop();
-                if(st.isEmpty()){
-                    break;
-                }
-                int width=i-st.peek()-1;
-                int length=Math.min(height[i],height[st.peek()])-top;
-                ans+=length*width;
-            }
-            st.push(i);
+            int count=Math.min(pre[i],suff[i]);
+            ans+=count-height[i];
         }
         return ans;
     }
