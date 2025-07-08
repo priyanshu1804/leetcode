@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/priyanshu1520/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/priyanshu1520/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3541-report-spam-message](https://github.com/priyanshu1520/leetcode/tree/master/3541-report-spam-message) |
+| [3587-maximum-points-tourist-can-earn](https://github.com/priyanshu1520/leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/priyanshu1520/leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/priyanshu1520/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/priyanshu1520/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1018,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/priyanshu1520/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3587-maximum-points-tourist-can-earn](https://github.com/priyanshu1520/leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/priyanshu1520/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/priyanshu1520/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/priyanshu1520/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1152,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/priyanshu1520/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/priyanshu1520/leetcode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/priyanshu1520/leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
+| [3587-maximum-points-tourist-can-earn](https://github.com/priyanshu1520/leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3618-find-the-original-typed-string-ii](https://github.com/priyanshu1520/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/priyanshu1520/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3654-minimum-array-sum](https://github.com/priyanshu1520/leetcode/tree/master/3654-minimum-array-sum) |
