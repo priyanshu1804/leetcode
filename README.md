@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/priyanshu1520/leetcode/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/priyanshu1520/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/priyanshu1520/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2078-maximum-compatibility-score-sum](https://github.com/priyanshu1520/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2081-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/priyanshu1520/leetcode/tree/master/2081-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2086-count-number-of-special-subsequences](https://github.com/priyanshu1520/leetcode/tree/master/2086-count-number-of-special-subsequences) |
 | [2089-maximum-matrix-sum](https://github.com/priyanshu1520/leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -1135,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/priyanshu1520/leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1952-minimum-sideway-jumps](https://github.com/priyanshu1520/leetcode/tree/master/1952-minimum-sideway-jumps) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/priyanshu1520/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2078-maximum-compatibility-score-sum](https://github.com/priyanshu1520/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2081-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/priyanshu1520/leetcode/tree/master/2081-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2086-count-number-of-special-subsequences](https://github.com/priyanshu1520/leetcode/tree/master/2086-count-number-of-special-subsequences) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/priyanshu1520/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -1238,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/priyanshu1520/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/priyanshu1520/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/priyanshu1520/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2078-maximum-compatibility-score-sum](https://github.com/priyanshu1520/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2107-find-unique-binary-string](https://github.com/priyanshu1520/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/priyanshu1520/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/priyanshu1520/leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
@@ -1256,6 +1259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1940-maximum-xor-for-each-query](https://github.com/priyanshu1520/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/priyanshu1520/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2078-maximum-compatibility-score-sum](https://github.com/priyanshu1520/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/priyanshu1520/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/priyanshu1520/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -1423,6 +1427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/priyanshu1520/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [2078-maximum-compatibility-score-sum](https://github.com/priyanshu1520/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 ## Quickselect
 |  |
 | ------- |
