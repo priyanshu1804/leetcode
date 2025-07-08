@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/priyanshu1520/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/priyanshu1520/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/priyanshu1520/leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/priyanshu1520/leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/priyanshu1520/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/priyanshu1520/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/priyanshu1520/leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/priyanshu1520/leetcode/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/priyanshu1520/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/priyanshu1520/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/priyanshu1520/leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyanshu1520/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/priyanshu1520/leetcode/tree/master/3541-report-spam-message) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/priyanshu1520/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -1161,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/priyanshu1520/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/priyanshu1520/leetcode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/priyanshu1520/leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
+| [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/priyanshu1520/leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/priyanshu1520/leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3618-find-the-original-typed-string-ii](https://github.com/priyanshu1520/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/priyanshu1520/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
