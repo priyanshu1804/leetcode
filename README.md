@@ -410,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshu1520/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/priyanshu1520/leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
+| [2664-maximize-greatness-of-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/priyanshu1520/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyanshu1520/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1520/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2551-apply-operations-to-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/priyanshu1520/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2664-maximize-greatness-of-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/priyanshu1520/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/priyanshu1520/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshu1520/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/priyanshu1520/leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
+| [2664-maximize-greatness-of-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/priyanshu1520/leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2846-robot-collisions](https://github.com/priyanshu1520/leetcode/tree/master/2846-robot-collisions) |
@@ -774,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/priyanshu1520/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/priyanshu1520/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshu1520/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2664-maximize-greatness-of-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/priyanshu1520/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/priyanshu1520/leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2716-prime-subtraction-operation](https://github.com/priyanshu1520/leetcode/tree/master/2716-prime-subtraction-operation) |
