@@ -426,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/priyanshu1520/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/priyanshu1520/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/priyanshu1520/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/priyanshu1520/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2751-sliding-subarray-beauty](https://github.com/priyanshu1520/leetcode/tree/master/2751-sliding-subarray-beauty) |
@@ -664,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/priyanshu1520/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/priyanshu1520/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/priyanshu1520/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/priyanshu1520/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/priyanshu1520/leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2664-maximize-greatness-of-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/priyanshu1520/leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/priyanshu1520/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2846-robot-collisions](https://github.com/priyanshu1520/leetcode/tree/master/2846-robot-collisions) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/priyanshu1520/leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/priyanshu1520/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -1357,6 +1360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1520/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/priyanshu1520/leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyanshu1520/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/priyanshu1520/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2915-count-of-interesting-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/priyanshu1520/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/priyanshu1520/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
