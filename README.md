@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/priyanshu1520/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1808-stone-game-vii](https://github.com/priyanshu1520/leetcode/tree/master/1808-stone-game-vii) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/priyanshu1520/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1824-maximum-number-of-eaten-apples](https://github.com/priyanshu1520/leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/priyanshu1520/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/priyanshu1520/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/priyanshu1520/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/priyanshu1520/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1804-maximum-binary-string-after-change](https://github.com/priyanshu1520/leetcode/tree/master/1804-maximum-binary-string-after-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/priyanshu1520/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1824-maximum-number-of-eaten-apples](https://github.com/priyanshu1520/leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1879-maximum-score-from-removing-stones](https://github.com/priyanshu1520/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/priyanshu1520/leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1952-minimum-sideway-jumps](https://github.com/priyanshu1520/leetcode/tree/master/1952-minimum-sideway-jumps) |
@@ -1081,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/priyanshu1520/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/priyanshu1520/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/priyanshu1520/leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
+| [1824-maximum-number-of-eaten-apples](https://github.com/priyanshu1520/leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1879-maximum-score-from-removing-stones](https://github.com/priyanshu1520/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/priyanshu1520/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/priyanshu1520/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
