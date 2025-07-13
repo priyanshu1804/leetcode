@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1324-where-will-the-ball-fall](https://github.com/priyanshu1520/leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1325-path-with-maximum-probability](https://github.com/priyanshu1520/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1348-maximum-score-of-spliced-array](https://github.com/priyanshu1520/leetcode/tree/master/1348-maximum-score-of-spliced-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/priyanshu1520/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/priyanshu1520/leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1364-tuple-with-same-product](https://github.com/priyanshu1520/leetcode/tree/master/1364-tuple-with-same-product) |
@@ -1177,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/priyanshu1520/leetcode/tree/master/1105-uncrossed-lines) |
 | [1170-shortest-common-supersequence](https://github.com/priyanshu1520/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/priyanshu1520/leetcode/tree/master/1196-filling-bookcase-shelves) |
+| [1348-maximum-score-of-spliced-array](https://github.com/priyanshu1520/leetcode/tree/master/1348-maximum-score-of-spliced-array) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/priyanshu1520/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1403-palindrome-partitioning-iii](https://github.com/priyanshu1520/leetcode/tree/master/1403-palindrome-partitioning-iii) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/priyanshu1520/leetcode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
