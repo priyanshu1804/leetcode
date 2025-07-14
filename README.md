@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/priyanshu1520/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/priyanshu1520/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/priyanshu1520/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2228-watering-plants-ii](https://github.com/priyanshu1520/leetcode/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/priyanshu1520/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/priyanshu1520/leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/priyanshu1520/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/priyanshu1520/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/priyanshu1520/leetcode/tree/master/1972-rotating-the-box) |
 | [2027-maximum-number-of-removable-characters](https://github.com/priyanshu1520/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
+| [2228-watering-plants-ii](https://github.com/priyanshu1520/leetcode/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/priyanshu1520/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/priyanshu1520/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/priyanshu1520/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/priyanshu1520/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/priyanshu1520/leetcode/tree/master/2155-find-missing-observations) |
+| [2228-watering-plants-ii](https://github.com/priyanshu1520/leetcode/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/priyanshu1520/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/priyanshu1520/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/priyanshu1520/leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
