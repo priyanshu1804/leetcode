@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/priyanshu1520/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1223-graph-connectivity-with-threshold](https://github.com/priyanshu1520/leetcode/tree/master/1223-graph-connectivity-with-threshold) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/priyanshu1520/leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1247-decrease-elements-to-make-array-zigzag](https://github.com/priyanshu1520/leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/priyanshu1520/leetcode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1256-rank-transform-of-an-array](https://github.com/priyanshu1520/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/priyanshu1520/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/priyanshu1520/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/priyanshu1520/leetcode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/priyanshu1520/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1247-decrease-elements-to-make-array-zigzag](https://github.com/priyanshu1520/leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1252-break-a-palindrome](https://github.com/priyanshu1520/leetcode/tree/master/1252-break-a-palindrome) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/priyanshu1520/leetcode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1304-longest-happy-string](https://github.com/priyanshu1520/leetcode/tree/master/1304-longest-happy-string) |
