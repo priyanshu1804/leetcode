@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanshu1520/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priyanshu1520/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/priyanshu1520/leetcode/tree/master/0337-house-robber-iii) |
+| [0365-water-and-jug-problem](https://github.com/priyanshu1520/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/priyanshu1520/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshu1520/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/priyanshu1520/leetcode/tree/master/0563-binary-tree-tilt) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priyanshu1520/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0365-water-and-jug-problem](https://github.com/priyanshu1520/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshu1520/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/priyanshu1520/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/priyanshu1520/leetcode/tree/master/0690-employee-importance) |
@@ -876,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/priyanshu1520/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/priyanshu1520/leetcode/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/priyanshu1520/leetcode/tree/master/0264-ugly-number-ii) |
+| [0365-water-and-jug-problem](https://github.com/priyanshu1520/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/priyanshu1520/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/priyanshu1520/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/priyanshu1520/leetcode/tree/master/0564-find-the-closest-palindrome) |
