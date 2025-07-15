@@ -967,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1520/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1804-maximum-binary-string-after-change](https://github.com/priyanshu1520/leetcode/tree/master/1804-maximum-binary-string-after-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/priyanshu1520/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1871-palindrome-partitioning-iv](https://github.com/priyanshu1520/leetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/priyanshu1520/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1904-second-largest-digit-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/priyanshu1520/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -1213,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1808-stone-game-vii](https://github.com/priyanshu1520/leetcode/tree/master/1808-stone-game-vii) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/priyanshu1520/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/priyanshu1520/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1871-palindrome-partitioning-iv](https://github.com/priyanshu1520/leetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/priyanshu1520/leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1952-minimum-sideway-jumps](https://github.com/priyanshu1520/leetcode/tree/master/1952-minimum-sideway-jumps) |
 | [2001-jump-game-vii](https://github.com/priyanshu1520/leetcode/tree/master/2001-jump-game-vii) |
