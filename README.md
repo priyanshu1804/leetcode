@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/priyanshu1520/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/priyanshu1520/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/priyanshu1520/leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/priyanshu1520/leetcode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyanshu1520/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/priyanshu1520/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/priyanshu1520/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/priyanshu1520/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3399-find-the-integer-added-to-array-ii](https://github.com/priyanshu1520/leetcode/tree/master/3399-find-the-integer-added-to-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/priyanshu1520/leetcode/tree/master/3430-count-days-without-meetings) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/priyanshu1520/leetcode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/priyanshu1520/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/priyanshu1520/leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
@@ -821,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/priyanshu1520/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/priyanshu1520/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/priyanshu1520/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3500-minimum-cost-for-cutting-cake-ii](https://github.com/priyanshu1520/leetcode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/priyanshu1520/leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3738-make-array-non-decreasing](https://github.com/priyanshu1520/leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/priyanshu1520/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
