@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1808-stone-game-vii](https://github.com/priyanshu1520/leetcode/tree/master/1808-stone-game-vii) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/priyanshu1520/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/priyanshu1520/leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
+| [1832-minimum-operations-to-make-a-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/priyanshu1520/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/priyanshu1520/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/priyanshu1520/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-can-convert-string-in-k-moves](https://github.com/priyanshu1520/leetcode/tree/master/1647-can-convert-string-in-k-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/priyanshu1520/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1520/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1832-minimum-operations-to-make-a-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1904-second-largest-digit-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/priyanshu1520/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/priyanshu1520/leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/priyanshu1520/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/priyanshu1520/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/priyanshu1520/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1832-minimum-operations-to-make-a-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/priyanshu1520/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/priyanshu1520/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/priyanshu1520/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1804-maximum-binary-string-after-change](https://github.com/priyanshu1520/leetcode/tree/master/1804-maximum-binary-string-after-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/priyanshu1520/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/priyanshu1520/leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
+| [1832-minimum-operations-to-make-a-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1879-maximum-score-from-removing-stones](https://github.com/priyanshu1520/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/priyanshu1520/leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1952-minimum-sideway-jumps](https://github.com/priyanshu1520/leetcode/tree/master/1952-minimum-sideway-jumps) |
