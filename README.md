@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/priyanshu1520/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/priyanshu1520/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/priyanshu1520/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2402-maximum-xor-after-operations](https://github.com/priyanshu1520/leetcode/tree/master/2402-maximum-xor-after-operations) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/priyanshu1520/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/priyanshu1520/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
@@ -932,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-split-of-positive-even-integers](https://github.com/priyanshu1520/leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
 | [2351-number-of-ways-to-buy-pens-and-pencils](https://github.com/priyanshu1520/leetcode/tree/master/2351-number-of-ways-to-buy-pens-and-pencils) |
 | [2383-add-two-integers](https://github.com/priyanshu1520/leetcode/tree/master/2383-add-two-integers) |
+| [2402-maximum-xor-after-operations](https://github.com/priyanshu1520/leetcode/tree/master/2402-maximum-xor-after-operations) |
 | [2448-count-number-of-bad-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/priyanshu1520/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2610-closest-prime-numbers-in-range](https://github.com/priyanshu1520/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -1390,6 +1392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/priyanshu1520/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2308-divide-array-into-equal-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/priyanshu1520/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2402-maximum-xor-after-operations](https://github.com/priyanshu1520/leetcode/tree/master/2402-maximum-xor-after-operations) |
 | [2478-longest-nice-subarray](https://github.com/priyanshu1520/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/priyanshu1520/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/priyanshu1520/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
