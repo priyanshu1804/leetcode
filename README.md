@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/priyanshu1520/leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/priyanshu1520/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/priyanshu1520/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/priyanshu1520/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/priyanshu1520/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/priyanshu1520/leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/priyanshu1520/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/priyanshu1520/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/priyanshu1520/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/priyanshu1520/leetcode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/priyanshu1520/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/priyanshu1520/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshu1520/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/priyanshu1520/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/priyanshu1520/leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
 | [2664-maximize-greatness-of-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/priyanshu1520/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -1119,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2411-spiral-matrix-iv](https://github.com/priyanshu1520/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/priyanshu1520/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/priyanshu1520/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -1273,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/priyanshu1520/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/priyanshu1520/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/priyanshu1520/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/priyanshu1520/leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2755-extra-characters-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
