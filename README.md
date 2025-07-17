@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/priyanshu1520/leetcode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/priyanshu1520/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/priyanshu1520/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2002-stone-game-viii](https://github.com/priyanshu1520/leetcode/tree/master/2002-stone-game-viii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/priyanshu1520/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2027-maximum-number-of-removable-characters](https://github.com/priyanshu1520/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2035-count-sub-islands](https://github.com/priyanshu1520/leetcode/tree/master/2035-count-sub-islands) |
@@ -926,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-maximum-score-from-removing-stones](https://github.com/priyanshu1520/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/priyanshu1520/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/priyanshu1520/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2002-stone-game-viii](https://github.com/priyanshu1520/leetcode/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/priyanshu1520/leetcode/tree/master/2039-sum-game) |
 | [2050-count-good-numbers](https://github.com/priyanshu1520/leetcode/tree/master/2050-count-good-numbers) |
 | [2155-find-missing-observations](https://github.com/priyanshu1520/leetcode/tree/master/2155-find-missing-observations) |
@@ -1253,6 +1255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/priyanshu1520/leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1952-minimum-sideway-jumps](https://github.com/priyanshu1520/leetcode/tree/master/1952-minimum-sideway-jumps) |
 | [2001-jump-game-vii](https://github.com/priyanshu1520/leetcode/tree/master/2001-jump-game-vii) |
+| [2002-stone-game-viii](https://github.com/priyanshu1520/leetcode/tree/master/2002-stone-game-viii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/priyanshu1520/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2078-maximum-compatibility-score-sum](https://github.com/priyanshu1520/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2081-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/priyanshu1520/leetcode/tree/master/2081-minimum-total-space-wasted-with-k-resizing-operations) |
@@ -1424,6 +1427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/priyanshu1520/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/priyanshu1520/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2001-jump-game-vii](https://github.com/priyanshu1520/leetcode/tree/master/2001-jump-game-vii) |
+| [2002-stone-game-viii](https://github.com/priyanshu1520/leetcode/tree/master/2002-stone-game-viii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/priyanshu1520/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/priyanshu1520/leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2358-number-of-ways-to-split-array](https://github.com/priyanshu1520/leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -1569,6 +1573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0828-chalkboard-xor-game](https://github.com/priyanshu1520/leetcode/tree/master/0828-chalkboard-xor-game) |
 | [1808-stone-game-vii](https://github.com/priyanshu1520/leetcode/tree/master/1808-stone-game-vii) |
+| [2002-stone-game-viii](https://github.com/priyanshu1520/leetcode/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/priyanshu1520/leetcode/tree/master/2039-sum-game) |
 ## Bitmask
 |  |
