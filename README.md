@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/priyanshu1520/leetcode/tree/master/2846-robot-collisions) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/priyanshu1520/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2889-number-of-black-blocks](https://github.com/priyanshu1520/leetcode/tree/master/2889-number-of-black-blocks) |
 | [2915-count-of-interesting-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2915-count-of-interesting-subarrays) |
@@ -952,6 +953,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/priyanshu1520/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/priyanshu1520/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/priyanshu1520/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/priyanshu1520/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/priyanshu1520/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/priyanshu1520/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -1285,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/priyanshu1520/leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2755-extra-characters-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/priyanshu1520/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/priyanshu1520/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/priyanshu1520/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
