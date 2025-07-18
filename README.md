@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-build-a-matrix-with-conditions](https://github.com/priyanshu1520/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/priyanshu1520/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/priyanshu1520/leetcode/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/priyanshu1520/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1520/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/priyanshu1520/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/priyanshu1520/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2455-node-with-highest-edge-score](https://github.com/priyanshu1520/leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/priyanshu1520/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/priyanshu1520/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2487-optimal-partition-of-string](https://github.com/priyanshu1520/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/priyanshu1520/leetcode/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/priyanshu1520/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -761,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/priyanshu1520/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/priyanshu1520/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/priyanshu1520/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/priyanshu1520/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1520/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/priyanshu1520/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/priyanshu1520/leetcode/tree/master/2502-sort-the-people) |
@@ -905,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/priyanshu1520/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/priyanshu1520/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshu1520/leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2479-meeting-rooms-iii](https://github.com/priyanshu1520/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/priyanshu1520/leetcode/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/priyanshu1520/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -1174,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/priyanshu1520/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/priyanshu1520/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/priyanshu1520/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/priyanshu1520/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1520/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/priyanshu1520/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
