@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/priyanshu1520/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/priyanshu1520/leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/priyanshu1520/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2504-find-all-good-indices](https://github.com/priyanshu1520/leetcode/tree/master/2504-find-all-good-indices) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/priyanshu1520/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/priyanshu1520/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/priyanshu1520/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -1299,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-number-of-distinct-roll-sequences](https://github.com/priyanshu1520/leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshu1520/leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2504-find-all-good-indices](https://github.com/priyanshu1520/leetcode/tree/master/2504-find-all-good-indices) |
 | [2510-maximum-deletions-on-a-string](https://github.com/priyanshu1520/leetcode/tree/master/2510-maximum-deletions-on-a-string) |
 | [2554-minimum-total-distance-traveled](https://github.com/priyanshu1520/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/priyanshu1520/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -1469,6 +1471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/priyanshu1520/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/priyanshu1520/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1520/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2504-find-all-good-indices](https://github.com/priyanshu1520/leetcode/tree/master/2504-find-all-good-indices) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/priyanshu1520/leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyanshu1520/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/priyanshu1520/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
