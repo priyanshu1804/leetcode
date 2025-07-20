@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/priyanshu1520/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2329-maximum-product-after-k-increments](https://github.com/priyanshu1520/leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/priyanshu1520/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2358-number-of-ways-to-split-array](https://github.com/priyanshu1520/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/priyanshu1520/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -843,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2245-destroying-asteroids](https://github.com/priyanshu1520/leetcode/tree/master/2245-destroying-asteroids) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/priyanshu1520/leetcode/tree/master/2263-maximum-running-time-of-n-computers) |
 | [2279-maximum-split-of-positive-even-integers](https://github.com/priyanshu1520/leetcode/tree/master/2279-maximum-split-of-positive-even-integers) |
+| [2329-maximum-product-after-k-increments](https://github.com/priyanshu1520/leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/priyanshu1520/leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/priyanshu1520/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2487-optimal-partition-of-string](https://github.com/priyanshu1520/leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -1178,6 +1180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/priyanshu1520/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/priyanshu1520/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/priyanshu1520/leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2329-maximum-product-after-k-increments](https://github.com/priyanshu1520/leetcode/tree/master/2329-maximum-product-after-k-increments) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/priyanshu1520/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/priyanshu1520/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/priyanshu1520/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
