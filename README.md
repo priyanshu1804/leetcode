@@ -576,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1647-can-convert-string-in-k-moves](https://github.com/priyanshu1520/leetcode/tree/master/1647-can-convert-string-in-k-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/priyanshu1520/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/priyanshu1520/leetcode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1520/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/priyanshu1520/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -1028,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-can-convert-string-in-k-moves](https://github.com/priyanshu1520/leetcode/tree/master/1647-can-convert-string-in-k-moves) |
 | [1652-minimum-suffix-flips](https://github.com/priyanshu1520/leetcode/tree/master/1652-minimum-suffix-flips) |
 | [1720-crawler-log-folder](https://github.com/priyanshu1520/leetcode/tree/master/1720-crawler-log-folder) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/priyanshu1520/leetcode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1520/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1804-maximum-binary-string-after-change](https://github.com/priyanshu1520/leetcode/tree/master/1804-maximum-binary-string-after-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/priyanshu1520/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1288,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/priyanshu1520/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/priyanshu1520/leetcode/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu1520/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/priyanshu1520/leetcode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/priyanshu1520/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1808-stone-game-vii](https://github.com/priyanshu1520/leetcode/tree/master/1808-stone-game-vii) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/priyanshu1520/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1593,6 +1596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/priyanshu1520/leetcode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/priyanshu1520/leetcode/tree/master/1656-count-good-triplets) |
+| [1743-count-substrings-that-differ-by-one-character](https://github.com/priyanshu1520/leetcode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/priyanshu1520/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/priyanshu1520/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/priyanshu1520/leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
