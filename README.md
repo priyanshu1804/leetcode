@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/priyanshu1520/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2889-number-of-black-blocks](https://github.com/priyanshu1520/leetcode/tree/master/2889-number-of-black-blocks) |
 | [2915-count-of-interesting-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3080-split-array-into-maximum-number-of-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/priyanshu1520/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/priyanshu1520/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/priyanshu1520/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -873,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/priyanshu1520/leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2716-prime-subtraction-operation](https://github.com/priyanshu1520/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3080-split-array-into-maximum-number-of-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/priyanshu1520/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/priyanshu1520/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3264-maximum-points-after-enemy-battles](https://github.com/priyanshu1520/leetcode/tree/master/3264-maximum-points-after-enemy-battles) |
@@ -1472,6 +1474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2700-substring-xor-queries](https://github.com/priyanshu1520/leetcode/tree/master/2700-substring-xor-queries) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/priyanshu1520/leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/priyanshu1520/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3080-split-array-into-maximum-number-of-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/priyanshu1520/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/priyanshu1520/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/priyanshu1520/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
