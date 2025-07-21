@@ -1329,6 +1329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2286-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/priyanshu1520/leetcode/tree/master/2286-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/priyanshu1520/leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/priyanshu1520/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2397-count-number-of-ways-to-place-houses](https://github.com/priyanshu1520/leetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/priyanshu1520/leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshu1520/leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
