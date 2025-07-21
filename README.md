@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/priyanshu1520/leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/priyanshu1520/leetcode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1256-rank-transform-of-an-array](https://github.com/priyanshu1520/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1290-make-array-strictly-increasing](https://github.com/priyanshu1520/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1293-three-consecutive-odds](https://github.com/priyanshu1520/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1299-k-concatenation-maximum-sum](https://github.com/priyanshu1520/leetcode/tree/master/1299-k-concatenation-maximum-sum) |
 | [1324-where-will-the-ball-fall](https://github.com/priyanshu1520/leetcode/tree/master/1324-where-will-the-ball-fall) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/priyanshu1520/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/priyanshu1520/leetcode/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu1520/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1290-make-array-strictly-increasing](https://github.com/priyanshu1520/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshu1520/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/priyanshu1520/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/priyanshu1520/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/priyanshu1520/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [1140-distant-barcodes](https://github.com/priyanshu1520/leetcode/tree/master/1140-distant-barcodes) |
 | [1256-rank-transform-of-an-array](https://github.com/priyanshu1520/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1290-make-array-strictly-increasing](https://github.com/priyanshu1520/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1333-sort-the-jumbled-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshu1520/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1281,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/priyanshu1520/leetcode/tree/master/1105-uncrossed-lines) |
 | [1170-shortest-common-supersequence](https://github.com/priyanshu1520/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/priyanshu1520/leetcode/tree/master/1196-filling-bookcase-shelves) |
+| [1290-make-array-strictly-increasing](https://github.com/priyanshu1520/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1299-k-concatenation-maximum-sum](https://github.com/priyanshu1520/leetcode/tree/master/1299-k-concatenation-maximum-sum) |
 | [1343-dice-roll-simulation](https://github.com/priyanshu1520/leetcode/tree/master/1343-dice-roll-simulation) |
 | [1348-maximum-score-of-spliced-array](https://github.com/priyanshu1520/leetcode/tree/master/1348-maximum-score-of-spliced-array) |
