@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/priyanshu1520/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/priyanshu1520/leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/priyanshu1520/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3561-remove-methods-from-project](https://github.com/priyanshu1520/leetcode/tree/master/3561-remove-methods-from-project) |
 ## Graph
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2889-number-of-black-blocks](https://github.com/priyanshu1520/leetcode/tree/master/2889-number-of-black-blocks) |
 | [2915-count-of-interesting-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/priyanshu1520/leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/priyanshu1520/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/priyanshu1520/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/priyanshu1520/leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -1182,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/priyanshu1520/leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/priyanshu1520/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/priyanshu1520/leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/priyanshu1520/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1351,6 +1354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/priyanshu1520/leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/priyanshu1520/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/priyanshu1520/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/priyanshu1520/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
