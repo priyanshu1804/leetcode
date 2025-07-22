@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/priyanshu1520/leetcode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshu1520/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/priyanshu1520/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0432-all-oone-data-structure](https://github.com/priyanshu1520/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0554-brick-wall](https://github.com/priyanshu1520/leetcode/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/priyanshu1520/leetcode/tree/master/0567-permutation-in-string) |
@@ -1016,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/priyanshu1520/leetcode/tree/master/0038-count-and-say) |
 | [0241-different-ways-to-add-parentheses](https://github.com/priyanshu1520/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/priyanshu1520/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0539-minimum-time-difference](https://github.com/priyanshu1520/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/priyanshu1520/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/priyanshu1520/leetcode/tree/master/0567-permutation-in-string) |
@@ -1231,6 +1233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/priyanshu1520/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/priyanshu1520/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/priyanshu1520/leetcode/tree/master/0948-sort-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/priyanshu1520/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -1397,6 +1400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/priyanshu1520/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/priyanshu1520/leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/priyanshu1520/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
