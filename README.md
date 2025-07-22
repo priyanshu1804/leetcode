@@ -1089,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/priyanshu1520/leetcode/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2465-shifting-letters-ii](https://github.com/priyanshu1520/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2487-optimal-partition-of-string](https://github.com/priyanshu1520/leetcode/tree/master/2487-optimal-partition-of-string) |
+| [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/priyanshu1520/leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/priyanshu1520/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/priyanshu1520/leetcode/tree/master/2502-sort-the-people) |
 | [2510-maximum-deletions-on-a-string](https://github.com/priyanshu1520/leetcode/tree/master/2510-maximum-deletions-on-a-string) |
