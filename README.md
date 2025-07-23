@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/priyanshu1520/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1020-longest-turbulent-subarray](https://github.com/priyanshu1520/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/priyanshu1520/leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1028-interval-list-intersections](https://github.com/priyanshu1520/leetcode/tree/master/1028-interval-list-intersections) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/priyanshu1520/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1104-coloring-a-border](https://github.com/priyanshu1520/leetcode/tree/master/1104-coloring-a-border) |
 | [1105-uncrossed-lines](https://github.com/priyanshu1520/leetcode/tree/master/1105-uncrossed-lines) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-advantage-shuffle](https://github.com/priyanshu1520/leetcode/tree/master/0901-advantage-shuffle) |
 | [0958-sort-array-by-parity-ii](https://github.com/priyanshu1520/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/priyanshu1520/leetcode/tree/master/0959-3sum-with-multiplicity) |
+| [1028-interval-list-intersections](https://github.com/priyanshu1520/leetcode/tree/master/1028-interval-list-intersections) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshu1520/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/priyanshu1520/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/priyanshu1520/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -1691,4 +1693,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/priyanshu1520/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/priyanshu1520/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/priyanshu1520/leetcode/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
