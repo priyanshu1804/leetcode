@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2081-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/priyanshu1520/leetcode/tree/master/2081-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2086-count-number-of-special-subsequences](https://github.com/priyanshu1520/leetcode/tree/master/2086-count-number-of-special-subsequences) |
 | [2089-maximum-matrix-sum](https://github.com/priyanshu1520/leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/priyanshu1520/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/priyanshu1520/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/priyanshu1520/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/priyanshu1520/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
@@ -868,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-minimum-sideway-jumps](https://github.com/priyanshu1520/leetcode/tree/master/1952-minimum-sideway-jumps) |
 | [2039-sum-game](https://github.com/priyanshu1520/leetcode/tree/master/2039-sum-game) |
 | [2089-maximum-matrix-sum](https://github.com/priyanshu1520/leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/priyanshu1520/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/priyanshu1520/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/priyanshu1520/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/priyanshu1520/leetcode/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -1218,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-maximum-number-of-eaten-apples](https://github.com/priyanshu1520/leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1879-maximum-score-from-removing-stones](https://github.com/priyanshu1520/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/priyanshu1520/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/priyanshu1520/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/priyanshu1520/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/priyanshu1520/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/priyanshu1520/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
