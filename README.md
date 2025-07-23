@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/priyanshu1520/leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/priyanshu1520/leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/priyanshu1520/leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [1947-number-of-different-subsequences-gcds](https://github.com/priyanshu1520/leetcode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [1952-minimum-sideway-jumps](https://github.com/priyanshu1520/leetcode/tree/master/1952-minimum-sideway-jumps) |
 | [1972-rotating-the-box](https://github.com/priyanshu1520/leetcode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/priyanshu1520/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -986,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1808-stone-game-vii](https://github.com/priyanshu1520/leetcode/tree/master/1808-stone-game-vii) |
 | [1879-maximum-score-from-removing-stones](https://github.com/priyanshu1520/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/priyanshu1520/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1947-number-of-different-subsequences-gcds](https://github.com/priyanshu1520/leetcode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/priyanshu1520/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2002-stone-game-viii](https://github.com/priyanshu1520/leetcode/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/priyanshu1520/leetcode/tree/master/2039-sum-game) |
@@ -1278,6 +1280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/priyanshu1520/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1520/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/priyanshu1520/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1947-number-of-different-subsequences-gcds](https://github.com/priyanshu1520/leetcode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/priyanshu1520/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1555,6 +1558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/priyanshu1520/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/priyanshu1520/leetcode/tree/master/0258-add-digits) |
 | [1223-graph-connectivity-with-threshold](https://github.com/priyanshu1520/leetcode/tree/master/1223-graph-connectivity-with-threshold) |
+| [1947-number-of-different-subsequences-gcds](https://github.com/priyanshu1520/leetcode/tree/master/1947-number-of-different-subsequences-gcds) |
 | [2610-closest-prime-numbers-in-range](https://github.com/priyanshu1520/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/priyanshu1520/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/priyanshu1520/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
