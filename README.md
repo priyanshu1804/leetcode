@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/priyanshu1520/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1028-interval-list-intersections](https://github.com/priyanshu1520/leetcode/tree/master/1028-interval-list-intersections) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/priyanshu1520/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1087-longest-arithmetic-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1104-coloring-a-border](https://github.com/priyanshu1520/leetcode/tree/master/1104-coloring-a-border) |
 | [1105-uncrossed-lines](https://github.com/priyanshu1520/leetcode/tree/master/1105-uncrossed-lines) |
 | [1140-distant-barcodes](https://github.com/priyanshu1520/leetcode/tree/master/1140-distant-barcodes) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0959-3sum-with-multiplicity](https://github.com/priyanshu1520/leetcode/tree/master/0959-3sum-with-multiplicity) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/priyanshu1520/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/priyanshu1520/leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1087-longest-arithmetic-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1140-distant-barcodes](https://github.com/priyanshu1520/leetcode/tree/master/1140-distant-barcodes) |
 | [1160-letter-tile-possibilities](https://github.com/priyanshu1520/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/priyanshu1520/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/priyanshu1520/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/priyanshu1520/leetcode/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu1520/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1087-longest-arithmetic-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1290-make-array-strictly-increasing](https://github.com/priyanshu1520/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshu1520/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/priyanshu1520/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -1322,6 +1325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/priyanshu1520/leetcode/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1020-longest-turbulent-subarray](https://github.com/priyanshu1520/leetcode/tree/master/1020-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/priyanshu1520/leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1087-longest-arithmetic-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1105-uncrossed-lines](https://github.com/priyanshu1520/leetcode/tree/master/1105-uncrossed-lines) |
 | [1170-shortest-common-supersequence](https://github.com/priyanshu1520/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/priyanshu1520/leetcode/tree/master/1196-filling-bookcase-shelves) |
