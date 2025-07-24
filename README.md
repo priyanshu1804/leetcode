@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3561-remove-methods-from-project](https://github.com/priyanshu1520/leetcode/tree/master/3561-remove-methods-from-project) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/priyanshu1520/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/priyanshu1520/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3856-maximum-weighted-k-edge-path](https://github.com/priyanshu1520/leetcode/tree/master/3856-maximum-weighted-k-edge-path) |
 ## Topological Sort
 |  |
 | ------- |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/priyanshu1520/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3687-longest-special-path](https://github.com/priyanshu1520/leetcode/tree/master/3687-longest-special-path) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/priyanshu1520/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3856-maximum-weighted-k-edge-path](https://github.com/priyanshu1520/leetcode/tree/master/3856-maximum-weighted-k-edge-path) |
 | [3885-count-special-triplets](https://github.com/priyanshu1520/leetcode/tree/master/3885-count-special-triplets) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/priyanshu1520/leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Two Pointers
@@ -1396,6 +1398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/priyanshu1520/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3654-minimum-array-sum](https://github.com/priyanshu1520/leetcode/tree/master/3654-minimum-array-sum) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
+| [3856-maximum-weighted-k-edge-path](https://github.com/priyanshu1520/leetcode/tree/master/3856-maximum-weighted-k-edge-path) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/priyanshu1520/leetcode/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Shortest Path
 |  |
