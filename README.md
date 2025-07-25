@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/priyanshu1520/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanshu1520/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/priyanshu1520/leetcode/tree/master/0337-house-robber-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshu1520/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/priyanshu1520/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanshu1520/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/priyanshu1520/leetcode/tree/master/0337-house-robber-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshu1520/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1311,6 +1313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/priyanshu1520/leetcode/tree/master/0042-trapping-rain-water) |
+| [0095-unique-binary-search-trees-ii](https://github.com/priyanshu1520/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/priyanshu1520/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/priyanshu1520/leetcode/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priyanshu1520/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -1479,6 +1482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/priyanshu1520/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/priyanshu1520/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -1489,6 +1493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/priyanshu1520/leetcode/tree/master/0040-combination-sum-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/priyanshu1520/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/priyanshu1520/leetcode/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/priyanshu1520/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/priyanshu1520/leetcode/tree/master/1160-letter-tile-possibilities) |
