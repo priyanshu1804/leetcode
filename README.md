@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/priyanshu1520/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1558-course-schedule-iv](https://github.com/priyanshu1520/leetcode/tree/master/1558-course-schedule-iv) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/priyanshu1520/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/priyanshu1520/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/priyanshu1520/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/priyanshu1520/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/priyanshu1520/leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priyanshu1520/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/priyanshu1520/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/priyanshu1520/leetcode/tree/master/1558-course-schedule-iv) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/priyanshu1520/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/priyanshu1520/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/priyanshu1520/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/priyanshu1520/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -1243,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1479-construct-target-array-with-multiple-sums](https://github.com/priyanshu1520/leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/priyanshu1520/leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1879-maximum-score-from-removing-stones](https://github.com/priyanshu1520/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/priyanshu1520/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/priyanshu1520/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/priyanshu1520/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/priyanshu1520/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -1366,6 +1369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-palindrome-partitioning-iv](https://github.com/priyanshu1520/leetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/priyanshu1520/leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1897-maximize-palindrome-length-from-subsequences](https://github.com/priyanshu1520/leetcode/tree/master/1897-maximize-palindrome-length-from-subsequences) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/priyanshu1520/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1952-minimum-sideway-jumps](https://github.com/priyanshu1520/leetcode/tree/master/1952-minimum-sideway-jumps) |
 | [2001-jump-game-vii](https://github.com/priyanshu1520/leetcode/tree/master/2001-jump-game-vii) |
 | [2002-stone-game-viii](https://github.com/priyanshu1520/leetcode/tree/master/2002-stone-game-viii) |
@@ -1425,6 +1429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/priyanshu1520/leetcode/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/priyanshu1520/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/priyanshu1520/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/priyanshu1520/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/priyanshu1520/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/priyanshu1520/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2321-minimum-weighted-subgraph-with-the-required-paths](https://github.com/priyanshu1520/leetcode/tree/master/2321-minimum-weighted-subgraph-with-the-required-paths) |
