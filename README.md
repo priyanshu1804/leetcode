@@ -538,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/priyanshu1520/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/priyanshu1520/leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3541-report-spam-message](https://github.com/priyanshu1520/leetcode/tree/master/3541-report-spam-message) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/priyanshu1520/leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/priyanshu1520/leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3591-shift-distance-between-two-strings](https://github.com/priyanshu1520/leetcode/tree/master/3591-shift-distance-between-two-strings) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/priyanshu1520/leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
@@ -1218,6 +1219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/priyanshu1520/leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/priyanshu1520/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/priyanshu1520/leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/priyanshu1520/leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/priyanshu1520/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/priyanshu1520/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1406,6 +1408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/priyanshu1520/leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/priyanshu1520/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/priyanshu1520/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/priyanshu1520/leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/priyanshu1520/leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/priyanshu1520/leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3618-find-the-original-typed-string-ii](https://github.com/priyanshu1520/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
@@ -1542,6 +1545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/priyanshu1520/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3394-minimum-array-end](https://github.com/priyanshu1520/leetcode/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/priyanshu1520/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/priyanshu1520/leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/priyanshu1520/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/priyanshu1520/leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/priyanshu1520/leetcode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
@@ -1726,6 +1730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-maximum-compatibility-score-sum](https://github.com/priyanshu1520/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/priyanshu1520/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2848-special-permutations](https://github.com/priyanshu1520/leetcode/tree/master/2848-special-permutations) |
+| [3563-select-cells-in-grid-with-maximum-score](https://github.com/priyanshu1520/leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 ## Quickselect
 |  |
 | ------- |
