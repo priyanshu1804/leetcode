@@ -802,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshu1520/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/priyanshu1520/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1488-sort-integers-by-the-power-value](https://github.com/priyanshu1520/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/priyanshu1520/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/priyanshu1520/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -1371,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-palindrome-partitioning-iii](https://github.com/priyanshu1520/leetcode/tree/master/1403-palindrome-partitioning-iii) |
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/priyanshu1520/leetcode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/priyanshu1520/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1488-sort-integers-by-the-power-value](https://github.com/priyanshu1520/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [1511-count-number-of-teams](https://github.com/priyanshu1520/leetcode/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu1520/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/priyanshu1520/leetcode/tree/master/1743-count-substrings-that-differ-by-one-character) |
@@ -1640,6 +1642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/priyanshu1520/leetcode/tree/master/0397-integer-replacement) |
 | [0546-remove-boxes](https://github.com/priyanshu1520/leetcode/tree/master/0546-remove-boxes) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/priyanshu1520/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1488-sort-integers-by-the-power-value](https://github.com/priyanshu1520/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/priyanshu1520/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/priyanshu1520/leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
