@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/priyanshu1520/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/priyanshu1520/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/priyanshu1520/leetcode/tree/master/1720-crawler-log-folder) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/priyanshu1520/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/priyanshu1520/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/priyanshu1520/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1520/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1520,6 +1521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/priyanshu1520/leetcode/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/priyanshu1520/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/priyanshu1520/leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/priyanshu1520/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/priyanshu1520/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/priyanshu1520/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2078-maximum-compatibility-score-sum](https://github.com/priyanshu1520/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
@@ -1541,6 +1543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/priyanshu1520/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/priyanshu1520/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1487-cinema-seat-allocation](https://github.com/priyanshu1520/leetcode/tree/master/1487-cinema-seat-allocation) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/priyanshu1520/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1520/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1940-maximum-xor-for-each-query](https://github.com/priyanshu1520/leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -1703,6 +1706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/priyanshu1520/leetcode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/priyanshu1520/leetcode/tree/master/1656-count-good-triplets) |
+| [1723-maximum-number-of-achievable-transfer-requests](https://github.com/priyanshu1520/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/priyanshu1520/leetcode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/priyanshu1520/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/priyanshu1520/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
