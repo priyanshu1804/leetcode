@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/priyanshu1520/leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/priyanshu1520/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/priyanshu1520/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2662-check-knight-tour-configuration](https://github.com/priyanshu1520/leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/priyanshu1520/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/priyanshu1520/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/priyanshu1520/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/priyanshu1520/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2662-check-knight-tour-configuration](https://github.com/priyanshu1520/leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/priyanshu1520/leetcode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/priyanshu1520/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshu1520/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/priyanshu1520/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/priyanshu1520/leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
+| [2662-check-knight-tour-configuration](https://github.com/priyanshu1520/leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2664-maximize-greatness-of-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/priyanshu1520/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyanshu1520/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -1003,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/priyanshu1520/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2645-pass-the-pillow](https://github.com/priyanshu1520/leetcode/tree/master/2645-pass-the-pillow) |
+| [2662-check-knight-tour-configuration](https://github.com/priyanshu1520/leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/priyanshu1520/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/priyanshu1520/leetcode/tree/master/2846-robot-collisions) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/priyanshu1520/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -1253,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/priyanshu1520/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/priyanshu1520/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/priyanshu1520/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2662-check-knight-tour-configuration](https://github.com/priyanshu1520/leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
