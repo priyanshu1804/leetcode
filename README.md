@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/priyanshu1520/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/priyanshu1520/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/priyanshu1520/leetcode/tree/master/2035-count-sub-islands) |
+| [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/priyanshu1520/leetcode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2201-valid-arrangement-of-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/priyanshu1520/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/priyanshu1520/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1223-graph-connectivity-with-threshold](https://github.com/priyanshu1520/leetcode/tree/master/1223-graph-connectivity-with-threshold) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/priyanshu1520/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/priyanshu1520/leetcode/tree/master/2035-count-sub-islands) |
+| [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/priyanshu1520/leetcode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/priyanshu1520/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/priyanshu1520/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/priyanshu1520/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/priyanshu1520/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/priyanshu1520/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/priyanshu1520/leetcode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/priyanshu1520/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/priyanshu1520/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/priyanshu1520/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -1416,6 +1419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2086-count-number-of-special-subsequences](https://github.com/priyanshu1520/leetcode/tree/master/2086-count-number-of-special-subsequences) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/priyanshu1520/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/priyanshu1520/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/priyanshu1520/leetcode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2164-two-best-non-overlapping-events](https://github.com/priyanshu1520/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2193-count-fertile-pyramids-in-a-land](https://github.com/priyanshu1520/leetcode/tree/master/2193-count-fertile-pyramids-in-a-land) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/priyanshu1520/leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
