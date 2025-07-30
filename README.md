@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/priyanshu1520/leetcode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/priyanshu1520/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/priyanshu1520/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/priyanshu1520/leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2002-stone-game-viii](https://github.com/priyanshu1520/leetcode/tree/master/2002-stone-game-viii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/priyanshu1520/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2027-maximum-number-of-removable-characters](https://github.com/priyanshu1520/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/priyanshu1520/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/priyanshu1520/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/priyanshu1520/leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/priyanshu1520/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2027-maximum-number-of-removable-characters](https://github.com/priyanshu1520/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2164-two-best-non-overlapping-events](https://github.com/priyanshu1520/leetcode/tree/master/2164-two-best-non-overlapping-events) |
