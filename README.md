@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-cinema-seat-allocation](https://github.com/priyanshu1520/leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/priyanshu1520/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/priyanshu1520/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1503-reducing-dishes](https://github.com/priyanshu1520/leetcode/tree/master/1503-reducing-dishes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/priyanshu1520/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/priyanshu1520/leetcode/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshu1520/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/priyanshu1520/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1488-sort-integers-by-the-power-value](https://github.com/priyanshu1520/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
+| [1503-reducing-dishes](https://github.com/priyanshu1520/leetcode/tree/master/1503-reducing-dishes) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/priyanshu1520/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/priyanshu1520/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/priyanshu1520/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1487-cinema-seat-allocation](https://github.com/priyanshu1520/leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1502-construct-k-palindrome-strings](https://github.com/priyanshu1520/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1503-reducing-dishes](https://github.com/priyanshu1520/leetcode/tree/master/1503-reducing-dishes) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/priyanshu1520/leetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/priyanshu1520/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/priyanshu1520/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -1413,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/priyanshu1520/leetcode/tree/master/1443-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/priyanshu1520/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1488-sort-integers-by-the-power-value](https://github.com/priyanshu1520/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
+| [1503-reducing-dishes](https://github.com/priyanshu1520/leetcode/tree/master/1503-reducing-dishes) |
 | [1511-count-number-of-teams](https://github.com/priyanshu1520/leetcode/tree/master/1511-count-number-of-teams) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu1520/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/priyanshu1520/leetcode/tree/master/1743-count-substrings-that-differ-by-one-character) |
