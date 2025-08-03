@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/priyanshu1520/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2889-number-of-black-blocks](https://github.com/priyanshu1520/leetcode/tree/master/2889-number-of-black-blocks) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/priyanshu1520/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/priyanshu1520/leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2915-count-of-interesting-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/priyanshu1520/leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/priyanshu1520/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/priyanshu1520/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/priyanshu1520/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/priyanshu1520/leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/priyanshu1520/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/priyanshu1520/leetcode/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-minimum-score-by-changing-two-elements](https://github.com/priyanshu1520/leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/priyanshu1520/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2846-robot-collisions](https://github.com/priyanshu1520/leetcode/tree/master/2846-robot-collisions) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/priyanshu1520/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/priyanshu1520/leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/priyanshu1520/leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/priyanshu1520/leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -1545,6 +1548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2751-sliding-subarray-beauty](https://github.com/priyanshu1520/leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/priyanshu1520/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/priyanshu1520/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/priyanshu1520/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/priyanshu1520/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
