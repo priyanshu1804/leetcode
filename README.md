@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/priyanshu1520/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/priyanshu1520/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/priyanshu1520/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/priyanshu1520/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/priyanshu1520/leetcode/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/priyanshu1520/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/priyanshu1520/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/priyanshu1520/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/priyanshu1520/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/priyanshu1520/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/priyanshu1520/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [2439-longest-cycle-in-a-graph](https://github.com/priyanshu1520/leetcode/tree/master/2439-longest-cycle-in-a-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/priyanshu1520/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2455-node-with-highest-edge-score](https://github.com/priyanshu1520/leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2472-build-a-matrix-with-conditions](https://github.com/priyanshu1520/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/priyanshu1520/leetcode/tree/master/2035-count-sub-islands) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/priyanshu1520/leetcode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/priyanshu1520/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/priyanshu1520/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/priyanshu1520/leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/priyanshu1520/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -216,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/priyanshu1520/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/priyanshu1520/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/priyanshu1520/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/priyanshu1520/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/priyanshu1520/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -469,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/priyanshu1520/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/priyanshu1520/leetcode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2442-number-of-arithmetic-triplets](https://github.com/priyanshu1520/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/priyanshu1520/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/priyanshu1520/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/priyanshu1520/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
@@ -659,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/priyanshu1520/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/priyanshu1520/leetcode/tree/master/2442-number-of-arithmetic-triplets) |
+| [2445-reachable-nodes-with-restrictions](https://github.com/priyanshu1520/leetcode/tree/master/2445-reachable-nodes-with-restrictions) |
 | [2448-count-number-of-bad-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2455-node-with-highest-edge-score](https://github.com/priyanshu1520/leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/priyanshu1520/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
