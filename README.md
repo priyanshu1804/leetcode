@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-make-array-strictly-increasing](https://github.com/priyanshu1520/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1293-three-consecutive-odds](https://github.com/priyanshu1520/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1299-k-concatenation-maximum-sum](https://github.com/priyanshu1520/leetcode/tree/master/1299-k-concatenation-maximum-sum) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/priyanshu1520/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1310-watering-plants](https://github.com/priyanshu1520/leetcode/tree/master/1310-watering-plants) |
 | [1324-where-will-the-ball-fall](https://github.com/priyanshu1520/leetcode/tree/master/1324-where-will-the-ball-fall) |
 | [1325-path-with-maximum-probability](https://github.com/priyanshu1520/leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -1248,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/priyanshu1520/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/priyanshu1520/leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/priyanshu1520/leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/priyanshu1520/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/priyanshu1520/leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/priyanshu1520/leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/priyanshu1520/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -1784,6 +1786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/priyanshu1520/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/priyanshu1520/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/priyanshu1520/leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/priyanshu1520/leetcode/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/priyanshu1520/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/priyanshu1520/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/priyanshu1520/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
