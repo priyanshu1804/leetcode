@@ -441,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/priyanshu1520/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/priyanshu1520/leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2165-plates-between-candles](https://github.com/priyanshu1520/leetcode/tree/master/2165-plates-between-candles) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/priyanshu1520/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/priyanshu1520/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/priyanshu1520/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/priyanshu1520/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2027-maximum-number-of-removable-characters](https://github.com/priyanshu1520/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2164-two-best-non-overlapping-events](https://github.com/priyanshu1520/leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2165-plates-between-candles](https://github.com/priyanshu1520/leetcode/tree/master/2165-plates-between-candles) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/priyanshu1520/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/priyanshu1520/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/priyanshu1520/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -1185,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/priyanshu1520/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/priyanshu1520/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2165-plates-between-candles](https://github.com/priyanshu1520/leetcode/tree/master/2165-plates-between-candles) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/priyanshu1520/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/priyanshu1520/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/priyanshu1520/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -1687,6 +1690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-jump-game-vii](https://github.com/priyanshu1520/leetcode/tree/master/2001-jump-game-vii) |
 | [2002-stone-game-viii](https://github.com/priyanshu1520/leetcode/tree/master/2002-stone-game-viii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/priyanshu1520/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2165-plates-between-candles](https://github.com/priyanshu1520/leetcode/tree/master/2165-plates-between-candles) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/priyanshu1520/leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2358-number-of-ways-to-split-array](https://github.com/priyanshu1520/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/priyanshu1520/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
