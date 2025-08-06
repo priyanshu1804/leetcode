@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/priyanshu1520/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0854-making-a-large-island](https://github.com/priyanshu1520/leetcode/tree/master/0854-making-a-large-island) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/priyanshu1520/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0960-minimize-malware-spread](https://github.com/priyanshu1520/leetcode/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/priyanshu1520/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/priyanshu1520/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/priyanshu1520/leetcode/tree/master/0999-regions-cut-by-slashes) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/priyanshu1520/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/priyanshu1520/leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/priyanshu1520/leetcode/tree/master/0945-snakes-and-ladders) |
+| [0960-minimize-malware-spread](https://github.com/priyanshu1520/leetcode/tree/master/0960-minimize-malware-spread) |
 | [0999-regions-cut-by-slashes](https://github.com/priyanshu1520/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1104-coloring-a-border](https://github.com/priyanshu1520/leetcode/tree/master/1104-coloring-a-border) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/priyanshu1520/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/priyanshu1520/leetcode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/priyanshu1520/leetcode/tree/master/0744-network-delay-time) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/priyanshu1520/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0960-minimize-malware-spread](https://github.com/priyanshu1520/leetcode/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/priyanshu1520/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/priyanshu1520/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/priyanshu1520/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/priyanshu1520/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/priyanshu1520/leetcode/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/priyanshu1520/leetcode/tree/master/0854-making-a-large-island) |
+| [0960-minimize-malware-spread](https://github.com/priyanshu1520/leetcode/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/priyanshu1520/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/priyanshu1520/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1223-graph-connectivity-with-threshold](https://github.com/priyanshu1520/leetcode/tree/master/1223-graph-connectivity-with-threshold) |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/priyanshu1520/leetcode/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/priyanshu1520/leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0959-3sum-with-multiplicity](https://github.com/priyanshu1520/leetcode/tree/master/0959-3sum-with-multiplicity) |
+| [0960-minimize-malware-spread](https://github.com/priyanshu1520/leetcode/tree/master/0960-minimize-malware-spread) |
 | [0981-delete-columns-to-make-sorted](https://github.com/priyanshu1520/leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/priyanshu1520/leetcode/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [0993-tallest-billboard](https://github.com/priyanshu1520/leetcode/tree/master/0993-tallest-billboard) |
@@ -639,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/priyanshu1520/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/priyanshu1520/leetcode/tree/master/0952-word-subsets) |
 | [0959-3sum-with-multiplicity](https://github.com/priyanshu1520/leetcode/tree/master/0959-3sum-with-multiplicity) |
+| [0960-minimize-malware-spread](https://github.com/priyanshu1520/leetcode/tree/master/0960-minimize-malware-spread) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/priyanshu1520/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/priyanshu1520/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1087-longest-arithmetic-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/1087-longest-arithmetic-subsequence) |
