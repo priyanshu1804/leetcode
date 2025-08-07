@@ -1078,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/priyanshu1520/leetcode/tree/master/0089-gray-code) |
 | [0204-count-primes](https://github.com/priyanshu1520/leetcode/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/priyanshu1520/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/priyanshu1520/leetcode/tree/master/0258-add-digits) |
@@ -1639,6 +1640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/priyanshu1520/leetcode/tree/master/0040-combination-sum-ii) |
+| [0089-gray-code](https://github.com/priyanshu1520/leetcode/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/priyanshu1520/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/priyanshu1520/leetcode/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/priyanshu1520/leetcode/tree/master/0494-target-sum) |
@@ -1658,6 +1660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/priyanshu1520/leetcode/tree/master/0089-gray-code) |
 | [0397-integer-replacement](https://github.com/priyanshu1520/leetcode/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/priyanshu1520/leetcode/tree/master/0464-can-i-win) |
 | [0476-number-complement](https://github.com/priyanshu1520/leetcode/tree/master/0476-number-complement) |
