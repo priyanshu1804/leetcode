@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshu1520/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/priyanshu1520/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2651-count-ways-to-group-overlapping-ranges](https://github.com/priyanshu1520/leetcode/tree/master/2651-count-ways-to-group-overlapping-ranges) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2662-check-knight-tour-configuration](https://github.com/priyanshu1520/leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2664-maximize-greatness-of-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/priyanshu1520/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/priyanshu1520/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/priyanshu1520/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/priyanshu1520/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2700-substring-xor-queries](https://github.com/priyanshu1520/leetcode/tree/master/2700-substring-xor-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/priyanshu1520/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -1690,6 +1692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/priyanshu1520/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/priyanshu1520/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/priyanshu1520/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2700-substring-xor-queries](https://github.com/priyanshu1520/leetcode/tree/master/2700-substring-xor-queries) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/priyanshu1520/leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/priyanshu1520/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -1733,6 +1736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1520/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2504-find-all-good-indices](https://github.com/priyanshu1520/leetcode/tree/master/2504-find-all-good-indices) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/priyanshu1520/leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2656-count-the-number-of-beautiful-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyanshu1520/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/priyanshu1520/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2915-count-of-interesting-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2915-count-of-interesting-subarrays) |
