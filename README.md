@@ -1014,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/priyanshu1520/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/priyanshu1520/leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
+| [2850-construct-the-longest-new-string](https://github.com/priyanshu1520/leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/priyanshu1520/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/priyanshu1520/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -1145,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/priyanshu1520/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/priyanshu1520/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/priyanshu1520/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2850-construct-the-longest-new-string](https://github.com/priyanshu1520/leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/priyanshu1520/leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/priyanshu1520/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -1542,6 +1544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2848-special-permutations](https://github.com/priyanshu1520/leetcode/tree/master/2848-special-permutations) |
+| [2850-construct-the-longest-new-string](https://github.com/priyanshu1520/leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2893-visit-array-positions-to-maximize-score](https://github.com/priyanshu1520/leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/priyanshu1520/leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
@@ -1778,6 +1781,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-chalkboard-xor-game](https://github.com/priyanshu1520/leetcode/tree/master/0828-chalkboard-xor-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/priyanshu1520/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/priyanshu1520/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2850-construct-the-longest-new-string](https://github.com/priyanshu1520/leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [3462-vowels-game-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
