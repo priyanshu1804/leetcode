@@ -1100,6 +1100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/priyanshu1520/leetcode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/priyanshu1520/leetcode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/priyanshu1520/leetcode/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/priyanshu1520/leetcode/tree/master/0826-soup-servings) |
 | [0828-chalkboard-xor-game](https://github.com/priyanshu1520/leetcode/tree/master/0828-chalkboard-xor-game) |
 | [1223-graph-connectivity-with-threshold](https://github.com/priyanshu1520/leetcode/tree/master/1223-graph-connectivity-with-threshold) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/priyanshu1520/leetcode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
@@ -1469,6 +1470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priyanshu1520/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0769-largest-plus-sign](https://github.com/priyanshu1520/leetcode/tree/master/0769-largest-plus-sign) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/priyanshu1520/leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
+| [0826-soup-servings](https://github.com/priyanshu1520/leetcode/tree/master/0826-soup-servings) |
 | [0831-largest-sum-of-averages](https://github.com/priyanshu1520/leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0868-push-dominoes](https://github.com/priyanshu1520/leetcode/tree/master/0868-push-dominoes) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/priyanshu1520/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
@@ -1933,4 +1935,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/priyanshu1520/leetcode/tree/master/1028-interval-list-intersections) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/priyanshu1520/leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
