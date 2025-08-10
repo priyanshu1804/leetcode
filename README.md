@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/priyanshu1520/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/priyanshu1520/leetcode/tree/master/1558-course-schedule-iv) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/priyanshu1520/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/priyanshu1520/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/priyanshu1520/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/priyanshu1520/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/priyanshu1520/leetcode/tree/master/1558-course-schedule-iv) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/priyanshu1520/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/priyanshu1520/leetcode/tree/master/2035-count-sub-islands) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/priyanshu1520/leetcode/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/priyanshu1520/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2131-smallest-missing-genetic-value-in-each-subtree](https://github.com/priyanshu1520/leetcode/tree/master/2131-smallest-missing-genetic-value-in-each-subtree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/priyanshu1520/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -681,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-cinema-seat-allocation](https://github.com/priyanshu1520/leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1502-construct-k-palindrome-strings](https://github.com/priyanshu1520/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/priyanshu1520/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/priyanshu1520/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1647-can-convert-string-in-k-moves](https://github.com/priyanshu1520/leetcode/tree/master/1647-can-convert-string-in-k-moves) |
