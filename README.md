@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2504-find-all-good-indices](https://github.com/priyanshu1520/leetcode/tree/master/2504-find-all-good-indices) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/priyanshu1520/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/priyanshu1520/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2529-range-product-queries-of-powers](https://github.com/priyanshu1520/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/priyanshu1520/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/priyanshu1520/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2548-destroy-sequential-targets](https://github.com/priyanshu1520/leetcode/tree/master/2548-destroy-sequential-targets) |
@@ -1723,6 +1724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/priyanshu1520/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/priyanshu1520/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/priyanshu1520/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2529-range-product-queries-of-powers](https://github.com/priyanshu1520/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/priyanshu1520/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2700-substring-xor-queries](https://github.com/priyanshu1520/leetcode/tree/master/2700-substring-xor-queries) |
@@ -1767,6 +1769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2466-maximum-segment-sum-after-removals](https://github.com/priyanshu1520/leetcode/tree/master/2466-maximum-segment-sum-after-removals) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1520/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2504-find-all-good-indices](https://github.com/priyanshu1520/leetcode/tree/master/2504-find-all-good-indices) |
+| [2529-range-product-queries-of-powers](https://github.com/priyanshu1520/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/priyanshu1520/leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyanshu1520/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
