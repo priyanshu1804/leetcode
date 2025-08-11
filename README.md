@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/priyanshu1520/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/priyanshu1520/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3112-count-valid-paths-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3561-remove-methods-from-project](https://github.com/priyanshu1520/leetcode/tree/master/3561-remove-methods-from-project) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/priyanshu1520/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-cycle-length-queries-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/priyanshu1520/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3112-count-valid-paths-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/priyanshu1520/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/priyanshu1520/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -1168,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-prime-pairs-with-target-sum](https://github.com/priyanshu1520/leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/priyanshu1520/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/priyanshu1520/leetcode/tree/master/2998-count-symmetric-integers) |
+| [3112-count-valid-paths-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3227-find-missing-and-repeated-values](https://github.com/priyanshu1520/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3462-vowels-game-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/priyanshu1520/leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -1568,6 +1571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/priyanshu1520/leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/priyanshu1520/leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/priyanshu1520/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3112-count-valid-paths-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/priyanshu1520/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3230-remove-adjacent-almost-equal-characters](https://github.com/priyanshu1520/leetcode/tree/master/3230-remove-adjacent-almost-equal-characters) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/priyanshu1520/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1796,6 +1800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/priyanshu1520/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2873-prime-pairs-with-target-sum](https://github.com/priyanshu1520/leetcode/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/priyanshu1520/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3112-count-valid-paths-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/priyanshu1520/leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 ## Brainteaser
 |  |
