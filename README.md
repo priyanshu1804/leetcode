@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/priyanshu1520/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1028-interval-list-intersections](https://github.com/priyanshu1520/leetcode/tree/master/1028-interval-list-intersections) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/priyanshu1520/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/priyanshu1520/leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1087-longest-arithmetic-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/1087-longest-arithmetic-subsequence) |
 | [1104-coloring-a-border](https://github.com/priyanshu1520/leetcode/tree/master/1104-coloring-a-border) |
 | [1105-uncrossed-lines](https://github.com/priyanshu1520/leetcode/tree/master/1105-uncrossed-lines) |
@@ -1714,6 +1715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-chalkboard-xor-game](https://github.com/priyanshu1520/leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/priyanshu1520/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/priyanshu1520/leetcode/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/priyanshu1520/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/priyanshu1520/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1487-cinema-seat-allocation](https://github.com/priyanshu1520/leetcode/tree/master/1487-cinema-seat-allocation) |
