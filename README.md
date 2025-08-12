@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/priyanshu1520/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/priyanshu1520/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/priyanshu1520/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2486-most-frequent-even-element](https://github.com/priyanshu1520/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1520/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/priyanshu1520/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/priyanshu1520/leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-node-with-highest-edge-score](https://github.com/priyanshu1520/leetcode/tree/master/2455-node-with-highest-edge-score) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/priyanshu1520/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/priyanshu1520/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2486-most-frequent-even-element](https://github.com/priyanshu1520/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2487-optimal-partition-of-string](https://github.com/priyanshu1520/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/priyanshu1520/leetcode/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/priyanshu1520/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -1473,6 +1475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2486-most-frequent-even-element](https://github.com/priyanshu1520/leetcode/tree/master/2486-most-frequent-even-element) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/priyanshu1520/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/priyanshu1520/leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2548-destroy-sequential-targets](https://github.com/priyanshu1520/leetcode/tree/master/2548-destroy-sequential-targets) |
