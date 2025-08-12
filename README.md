@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/priyanshu1520/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/priyanshu1520/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/priyanshu1520/leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/priyanshu1520/leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3541-report-spam-message](https://github.com/priyanshu1520/leetcode/tree/master/3541-report-spam-message) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/priyanshu1520/leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/priyanshu1520/leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
@@ -1054,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/priyanshu1520/leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/priyanshu1520/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/priyanshu1520/leetcode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
+| [3528-reach-end-of-array-with-max-score](https://github.com/priyanshu1520/leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/priyanshu1520/leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3738-make-array-non-decreasing](https://github.com/priyanshu1520/leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/priyanshu1520/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
