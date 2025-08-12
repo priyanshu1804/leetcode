@@ -5,7 +5,7 @@ class Solution {
         int previ=0;
         long ans=0;
         for(int i=1;i<n-1;i++){
-            if(nums.get(i)>prev){
+            if(nums.get(i)>=prev){
                 ans+=(long)(i-previ)*prev;
                 prev=nums.get(i);
                 previ=i;
