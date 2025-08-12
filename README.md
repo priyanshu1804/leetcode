@@ -1510,6 +1510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/priyanshu1520/leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0826-soup-servings](https://github.com/priyanshu1520/leetcode/tree/master/0826-soup-servings) |
 | [0831-largest-sum-of-averages](https://github.com/priyanshu1520/leetcode/tree/master/0831-largest-sum-of-averages) |
+| [0836-race-car](https://github.com/priyanshu1520/leetcode/tree/master/0836-race-car) |
 | [0868-push-dominoes](https://github.com/priyanshu1520/leetcode/tree/master/0868-push-dominoes) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/priyanshu1520/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
