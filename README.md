@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/priyanshu1520/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/priyanshu1520/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2725-mice-and-cheese](https://github.com/priyanshu1520/leetcode/tree/master/2725-mice-and-cheese) |
 | [2727-number-of-senior-citizens](https://github.com/priyanshu1520/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2751-sliding-subarray-beauty](https://github.com/priyanshu1520/leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2755-extra-characters-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -951,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/priyanshu1520/leetcode/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/priyanshu1520/leetcode/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
+| [2725-mice-and-cheese](https://github.com/priyanshu1520/leetcode/tree/master/2725-mice-and-cheese) |
 | [2846-robot-collisions](https://github.com/priyanshu1520/leetcode/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/priyanshu1520/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/priyanshu1520/leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -1047,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/priyanshu1520/leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2716-prime-subtraction-operation](https://github.com/priyanshu1520/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2725-mice-and-cheese](https://github.com/priyanshu1520/leetcode/tree/master/2725-mice-and-cheese) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/priyanshu1520/leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2850-construct-the-longest-new-string](https://github.com/priyanshu1520/leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
@@ -1429,6 +1432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshu1520/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/priyanshu1520/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2725-mice-and-cheese](https://github.com/priyanshu1520/leetcode/tree/master/2725-mice-and-cheese) |
 | [2803-modify-graph-edge-weights](https://github.com/priyanshu1520/leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/priyanshu1520/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/priyanshu1520/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
