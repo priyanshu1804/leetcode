@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/priyanshu1520/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/priyanshu1520/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/priyanshu1520/leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
+| [1830-count-good-meals](https://github.com/priyanshu1520/leetcode/tree/master/1830-count-good-meals) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/priyanshu1520/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/priyanshu1520/leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/priyanshu1520/leetcode/tree/master/1743-count-substrings-that-differ-by-one-character) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1520/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/priyanshu1520/leetcode/tree/master/1813-maximum-erasure-value) |
+| [1830-count-good-meals](https://github.com/priyanshu1520/leetcode/tree/master/1830-count-good-meals) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/priyanshu1520/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1904-second-largest-digit-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
