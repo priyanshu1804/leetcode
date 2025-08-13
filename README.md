@@ -654,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/priyanshu1520/leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/priyanshu1520/leetcode/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/priyanshu1520/leetcode/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
+| [3936-split-array-by-prime-indices](https://github.com/priyanshu1520/leetcode/tree/master/3936-split-array-by-prime-indices) |
 ## Hash Table
 |  |
 | ------- |
@@ -1202,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/priyanshu1520/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/priyanshu1520/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/priyanshu1520/leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
+| [3936-split-array-by-prime-indices](https://github.com/priyanshu1520/leetcode/tree/master/3936-split-array-by-prime-indices) |
 ## String
 |  |
 | ------- |
@@ -1837,6 +1839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/priyanshu1520/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/priyanshu1520/leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3936-split-array-by-prime-indices](https://github.com/priyanshu1520/leetcode/tree/master/3936-split-array-by-prime-indices) |
 ## Brainteaser
 |  |
 | ------- |
