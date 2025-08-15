@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/priyanshu1520/leetcode/tree/master/0337-house-robber-iii) |
 | [0365-water-and-jug-problem](https://github.com/priyanshu1520/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0386-lexicographical-numbers](https://github.com/priyanshu1520/leetcode/tree/master/0386-lexicographical-numbers) |
+| [0419-battleships-in-a-board](https://github.com/priyanshu1520/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/priyanshu1520/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0563-binary-tree-tilt](https://github.com/priyanshu1520/leetcode/tree/master/0563-binary-tree-tilt) |
 | [0684-redundant-connection](https://github.com/priyanshu1520/leetcode/tree/master/0684-redundant-connection) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/priyanshu1520/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/priyanshu1520/leetcode/tree/master/0403-frog-jump) |
+| [0419-battleships-in-a-board](https://github.com/priyanshu1520/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0475-heaters](https://github.com/priyanshu1520/leetcode/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/priyanshu1520/leetcode/tree/master/0494-target-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/priyanshu1520/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -1361,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/priyanshu1520/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/priyanshu1520/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/priyanshu1520/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0419-battleships-in-a-board](https://github.com/priyanshu1520/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/priyanshu1520/leetcode/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/priyanshu1520/leetcode/tree/master/0787-sliding-puzzle) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/priyanshu1520/leetcode/tree/master/0825-max-increase-to-keep-city-skyline) |
