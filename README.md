@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/priyanshu1520/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/priyanshu1520/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [0999-regions-cut-by-slashes](https://github.com/priyanshu1520/leetcode/tree/master/0999-regions-cut-by-slashes) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/priyanshu1520/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1104-coloring-a-border](https://github.com/priyanshu1520/leetcode/tree/master/1104-coloring-a-border) |
 | [1207-delete-nodes-and-return-forest](https://github.com/priyanshu1520/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/priyanshu1520/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/priyanshu1520/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1040-maximum-binary-tree-ii](https://github.com/priyanshu1520/leetcode/tree/master/1040-maximum-binary-tree-ii) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/priyanshu1520/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/priyanshu1520/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/priyanshu1520/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/priyanshu1520/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/priyanshu1520/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1040-maximum-binary-tree-ii](https://github.com/priyanshu1520/leetcode/tree/master/1040-maximum-binary-tree-ii) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/priyanshu1520/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/priyanshu1520/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/priyanshu1520/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
