@@ -1182,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/priyanshu1520/leetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/priyanshu1520/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/priyanshu1520/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/priyanshu1520/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/priyanshu1520/leetcode/tree/master/1642-water-bottles) |
 | [1788-stone-game-vi](https://github.com/priyanshu1520/leetcode/tree/master/1788-stone-game-vi) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
@@ -1276,6 +1277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/priyanshu1520/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/priyanshu1520/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/priyanshu1520/leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/priyanshu1520/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1647-can-convert-string-in-k-moves](https://github.com/priyanshu1520/leetcode/tree/master/1647-can-convert-string-in-k-moves) |
 | [1652-minimum-suffix-flips](https://github.com/priyanshu1520/leetcode/tree/master/1652-minimum-suffix-flips) |
 | [1720-crawler-log-folder](https://github.com/priyanshu1520/leetcode/tree/master/1720-crawler-log-folder) |
