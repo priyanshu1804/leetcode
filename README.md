@@ -1061,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/priyanshu1520/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2725-mice-and-cheese](https://github.com/priyanshu1520/leetcode/tree/master/2725-mice-and-cheese) |
+| [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/priyanshu1520/leetcode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/priyanshu1520/leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2850-construct-the-longest-new-string](https://github.com/priyanshu1520/leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
@@ -1199,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/priyanshu1520/leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/priyanshu1520/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/priyanshu1520/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/priyanshu1520/leetcode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2850-construct-the-longest-new-string](https://github.com/priyanshu1520/leetcode/tree/master/2850-construct-the-longest-new-string) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [2873-prime-pairs-with-target-sum](https://github.com/priyanshu1520/leetcode/tree/master/2873-prime-pairs-with-target-sum) |
