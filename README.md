@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/priyanshu1520/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0403-frog-jump](https://github.com/priyanshu1520/leetcode/tree/master/0403-frog-jump) |
 | [0419-battleships-in-a-board](https://github.com/priyanshu1520/leetcode/tree/master/0419-battleships-in-a-board) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/priyanshu1520/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/priyanshu1520/leetcode/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/priyanshu1520/leetcode/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/priyanshu1520/leetcode/tree/master/0494-target-sum) |
@@ -1152,6 +1153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/priyanshu1520/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/priyanshu1520/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0390-elimination-game](https://github.com/priyanshu1520/leetcode/tree/master/0390-elimination-game) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/priyanshu1520/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0464-can-i-win](https://github.com/priyanshu1520/leetcode/tree/master/0464-can-i-win) |
 | [0539-minimum-time-difference](https://github.com/priyanshu1520/leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/priyanshu1520/leetcode/tree/master/0564-find-the-closest-palindrome) |
