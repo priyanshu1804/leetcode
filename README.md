@@ -1009,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-minimum-number-of-moves-to-make-palindrome](https://github.com/priyanshu1520/leetcode/tree/master/1356-minimum-number-of-moves-to-make-palindrome) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/priyanshu1520/leetcode/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1448-maximum-69-number](https://github.com/priyanshu1520/leetcode/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/priyanshu1520/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1487-cinema-seat-allocation](https://github.com/priyanshu1520/leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1502-construct-k-palindrome-strings](https://github.com/priyanshu1520/leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -1162,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/priyanshu1520/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/priyanshu1520/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/priyanshu1520/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/priyanshu1520/leetcode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/priyanshu1520/leetcode/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/priyanshu1520/leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
