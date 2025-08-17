@@ -1172,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/priyanshu1520/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/priyanshu1520/leetcode/tree/master/0826-soup-servings) |
 | [0828-chalkboard-xor-game](https://github.com/priyanshu1520/leetcode/tree/master/0828-chalkboard-xor-game) |
+| [0867-new-21-game](https://github.com/priyanshu1520/leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/priyanshu1520/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1223-graph-connectivity-with-threshold](https://github.com/priyanshu1520/leetcode/tree/master/1223-graph-connectivity-with-threshold) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/priyanshu1520/leetcode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
@@ -1565,6 +1566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/priyanshu1520/leetcode/tree/master/0826-soup-servings) |
 | [0831-largest-sum-of-averages](https://github.com/priyanshu1520/leetcode/tree/master/0831-largest-sum-of-averages) |
 | [0836-race-car](https://github.com/priyanshu1520/leetcode/tree/master/0836-race-car) |
+| [0867-new-21-game](https://github.com/priyanshu1520/leetcode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/priyanshu1520/leetcode/tree/master/0868-push-dominoes) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/priyanshu1520/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1700,6 +1702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/priyanshu1520/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/priyanshu1520/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0867-new-21-game](https://github.com/priyanshu1520/leetcode/tree/master/0867-new-21-game) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu1520/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0940-fruit-into-baskets](https://github.com/priyanshu1520/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/priyanshu1520/leetcode/tree/master/1020-longest-turbulent-subarray) |
@@ -2066,4 +2069,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/priyanshu1520/leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/priyanshu1520/leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
