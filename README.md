@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1558-course-schedule-iv](https://github.com/priyanshu1520/leetcode/tree/master/1558-course-schedule-iv) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/priyanshu1520/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/priyanshu1520/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [2035-count-sub-islands](https://github.com/priyanshu1520/leetcode/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/priyanshu1520/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2183-minimum-operations-to-convert-number](https://github.com/priyanshu1520/leetcode/tree/master/2183-minimum-operations-to-convert-number) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/priyanshu1520/leetcode/tree/master/1720-crawler-log-folder) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/priyanshu1520/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/priyanshu1520/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/priyanshu1520/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/priyanshu1520/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1783-ways-to-make-a-fair-array](https://github.com/priyanshu1520/leetcode/tree/master/1783-ways-to-make-a-fair-array) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/priyanshu1520/leetcode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
@@ -1597,6 +1599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/priyanshu1520/leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/priyanshu1520/leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/priyanshu1520/leetcode/tree/master/1743-count-substrings-that-differ-by-one-character) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/priyanshu1520/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/priyanshu1520/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1808-stone-game-vii](https://github.com/priyanshu1520/leetcode/tree/master/1808-stone-game-vii) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/priyanshu1520/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
