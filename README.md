@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/priyanshu1520/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/priyanshu1520/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/priyanshu1520/leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/priyanshu1520/leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1830-count-good-meals](https://github.com/priyanshu1520/leetcode/tree/master/1830-count-good-meals) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/priyanshu1520/leetcode/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/priyanshu1520/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -1608,6 +1609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-minimum-jumps-to-reach-home](https://github.com/priyanshu1520/leetcode/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/priyanshu1520/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1808-stone-game-vii](https://github.com/priyanshu1520/leetcode/tree/master/1808-stone-game-vii) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/priyanshu1520/leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/priyanshu1520/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/priyanshu1520/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1871-palindrome-partitioning-iv](https://github.com/priyanshu1520/leetcode/tree/master/1871-palindrome-partitioning-iv) |
@@ -1778,6 +1780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/priyanshu1520/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/priyanshu1520/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/priyanshu1520/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/priyanshu1520/leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1906-maximize-score-after-n-operations](https://github.com/priyanshu1520/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/priyanshu1520/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2078-maximum-compatibility-score-sum](https://github.com/priyanshu1520/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
@@ -1811,6 +1814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/priyanshu1520/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1520/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/priyanshu1520/leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1906-maximize-score-after-n-operations](https://github.com/priyanshu1520/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1940-maximum-xor-for-each-query](https://github.com/priyanshu1520/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/priyanshu1520/leetcode/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -2062,6 +2066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/priyanshu1520/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/priyanshu1520/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1717-minimum-cost-to-connect-two-groups-of-points](https://github.com/priyanshu1520/leetcode/tree/master/1717-minimum-cost-to-connect-two-groups-of-points) |
+| [1825-find-minimum-time-to-finish-all-jobs](https://github.com/priyanshu1520/leetcode/tree/master/1825-find-minimum-time-to-finish-all-jobs) |
 | [1906-maximize-score-after-n-operations](https://github.com/priyanshu1520/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [2078-maximum-compatibility-score-sum](https://github.com/priyanshu1520/leetcode/tree/master/2078-maximum-compatibility-score-sum) |
 | [2114-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/priyanshu1520/leetcode/tree/master/2114-minimum-number-of-work-sessions-to-finish-the-tasks) |
