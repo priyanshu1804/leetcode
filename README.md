@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1247-decrease-elements-to-make-array-zigzag](https://github.com/priyanshu1520/leetcode/tree/master/1247-decrease-elements-to-make-array-zigzag) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/priyanshu1520/leetcode/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1256-rank-transform-of-an-array](https://github.com/priyanshu1520/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/priyanshu1520/leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1290-make-array-strictly-increasing](https://github.com/priyanshu1520/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1293-three-consecutive-odds](https://github.com/priyanshu1520/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1299-k-concatenation-maximum-sum](https://github.com/priyanshu1520/leetcode/tree/master/1299-k-concatenation-maximum-sum) |
@@ -1585,6 +1586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/priyanshu1520/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/priyanshu1520/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/priyanshu1520/leetcode/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/priyanshu1520/leetcode/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1290-make-array-strictly-increasing](https://github.com/priyanshu1520/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1299-k-concatenation-maximum-sum](https://github.com/priyanshu1520/leetcode/tree/master/1299-k-concatenation-maximum-sum) |
 | [1343-dice-roll-simulation](https://github.com/priyanshu1520/leetcode/tree/master/1343-dice-roll-simulation) |
