@@ -508,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2228-watering-plants-ii](https://github.com/priyanshu1520/leetcode/tree/master/2228-watering-plants-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/priyanshu1520/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/priyanshu1520/leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2240-intervals-between-identical-elements](https://github.com/priyanshu1520/leetcode/tree/master/2240-intervals-between-identical-elements) |
 | [2245-destroying-asteroids](https://github.com/priyanshu1520/leetcode/tree/master/2245-destroying-asteroids) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/priyanshu1520/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/priyanshu1520/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/priyanshu1520/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/priyanshu1520/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/priyanshu1520/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2240-intervals-between-identical-elements](https://github.com/priyanshu1520/leetcode/tree/master/2240-intervals-between-identical-elements) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/priyanshu1520/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/priyanshu1520/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1875,6 +1877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/priyanshu1520/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2055-describe-the-painting](https://github.com/priyanshu1520/leetcode/tree/master/2055-describe-the-painting) |
 | [2165-plates-between-candles](https://github.com/priyanshu1520/leetcode/tree/master/2165-plates-between-candles) |
+| [2240-intervals-between-identical-elements](https://github.com/priyanshu1520/leetcode/tree/master/2240-intervals-between-identical-elements) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/priyanshu1520/leetcode/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2358-number-of-ways-to-split-array](https://github.com/priyanshu1520/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/priyanshu1520/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
