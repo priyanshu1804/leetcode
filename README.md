@@ -607,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2893-visit-array-positions-to-maximize-score](https://github.com/priyanshu1520/leetcode/tree/master/2893-visit-array-positions-to-maximize-score) |
 | [2904-sorting-three-groups](https://github.com/priyanshu1520/leetcode/tree/master/2904-sorting-three-groups) |
 | [2915-count-of-interesting-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [2953-count-pairs-of-points-with-distance-k](https://github.com/priyanshu1520/leetcode/tree/master/2953-count-pairs-of-points-with-distance-k) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/priyanshu1520/leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/priyanshu1520/leetcode/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2889-number-of-black-blocks](https://github.com/priyanshu1520/leetcode/tree/master/2889-number-of-black-blocks) |
 | [2915-count-of-interesting-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [2953-count-pairs-of-points-with-distance-k](https://github.com/priyanshu1520/leetcode/tree/master/2953-count-pairs-of-points-with-distance-k) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/priyanshu1520/leetcode/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/priyanshu1520/leetcode/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/priyanshu1520/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -1847,6 +1849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/priyanshu1520/leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/priyanshu1520/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2848-special-permutations](https://github.com/priyanshu1520/leetcode/tree/master/2848-special-permutations) |
+| [2953-count-pairs-of-points-with-distance-k](https://github.com/priyanshu1520/leetcode/tree/master/2953-count-pairs-of-points-with-distance-k) |
 | [3080-split-array-into-maximum-number-of-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3080-split-array-into-maximum-number-of-subarrays) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/priyanshu1520/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3291-find-if-array-can-be-sorted](https://github.com/priyanshu1520/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
