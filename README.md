@@ -649,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3500-minimum-cost-for-cutting-cake-ii](https://github.com/priyanshu1520/leetcode/tree/master/3500-minimum-cost-for-cutting-cake-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/priyanshu1520/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/priyanshu1520/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3518-maximum-multiplication-score](https://github.com/priyanshu1520/leetcode/tree/master/3518-maximum-multiplication-score) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/priyanshu1520/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/priyanshu1520/leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/priyanshu1520/leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
@@ -1685,6 +1686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3456-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/priyanshu1520/leetcode/tree/master/3456-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/priyanshu1520/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/priyanshu1520/leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3518-maximum-multiplication-score](https://github.com/priyanshu1520/leetcode/tree/master/3518-maximum-multiplication-score) |
 | [3563-select-cells-in-grid-with-maximum-score](https://github.com/priyanshu1520/leetcode/tree/master/3563-select-cells-in-grid-with-maximum-score) |
 | [3587-maximum-points-tourist-can-earn](https://github.com/priyanshu1520/leetcode/tree/master/3587-maximum-points-tourist-can-earn) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/priyanshu1520/leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
