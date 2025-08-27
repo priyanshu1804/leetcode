@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/priyanshu1520/leetcode/tree/master/1558-course-schedule-iv) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/priyanshu1520/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/priyanshu1520/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/priyanshu1520/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/priyanshu1520/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/priyanshu1520/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/priyanshu1520/leetcode/tree/master/2189-maximum-path-quality-of-a-graph) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/priyanshu1520/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1558-course-schedule-iv](https://github.com/priyanshu1520/leetcode/tree/master/1558-course-schedule-iv) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/priyanshu1520/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/priyanshu1520/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/priyanshu1520/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/priyanshu1520/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/priyanshu1520/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/priyanshu1520/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1934-evaluate-the-bracket-pairs-of-a-string](https://github.com/priyanshu1520/leetcode/tree/master/1934-evaluate-the-bracket-pairs-of-a-string) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/priyanshu1520/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/priyanshu1520/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/priyanshu1520/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2055-describe-the-painting](https://github.com/priyanshu1520/leetcode/tree/master/2055-describe-the-painting) |
@@ -1541,6 +1544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1520/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/priyanshu1520/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1947-number-of-different-subsequences-gcds](https://github.com/priyanshu1520/leetcode/tree/master/1947-number-of-different-subsequences-gcds) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/priyanshu1520/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/priyanshu1520/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/priyanshu1520/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2156-stone-game-ix](https://github.com/priyanshu1520/leetcode/tree/master/2156-stone-game-ix) |
@@ -1631,6 +1635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1906-maximize-score-after-n-operations](https://github.com/priyanshu1520/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/priyanshu1520/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1952-minimum-sideway-jumps](https://github.com/priyanshu1520/leetcode/tree/master/1952-minimum-sideway-jumps) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/priyanshu1520/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2001-jump-game-vii](https://github.com/priyanshu1520/leetcode/tree/master/2001-jump-game-vii) |
 | [2002-stone-game-viii](https://github.com/priyanshu1520/leetcode/tree/master/2002-stone-game-viii) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/priyanshu1520/leetcode/tree/master/2022-maximum-alternating-subsequence-sum) |
@@ -1954,6 +1959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0691-stickers-to-spell-word](https://github.com/priyanshu1520/leetcode/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/priyanshu1520/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1488-sort-integers-by-the-power-value](https://github.com/priyanshu1520/leetcode/tree/master/1488-sort-integers-by-the-power-value) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/priyanshu1520/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/priyanshu1520/leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2404-number-of-distinct-roll-sequences](https://github.com/priyanshu1520/leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
