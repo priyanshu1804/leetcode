@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/priyanshu1520/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/priyanshu1520/leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/priyanshu1520/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1380-number-of-closed-islands](https://github.com/priyanshu1520/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1428-jump-game-iii](https://github.com/priyanshu1520/leetcode/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/priyanshu1520/leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/priyanshu1520/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/priyanshu1520/leetcode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/priyanshu1520/leetcode/tree/master/1254-deepest-leaves-sum) |
+| [1380-number-of-closed-islands](https://github.com/priyanshu1520/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/priyanshu1520/leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1428-jump-game-iii](https://github.com/priyanshu1520/leetcode/tree/master/1428-jump-game-iii) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/priyanshu1520/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/priyanshu1520/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1223-graph-connectivity-with-threshold](https://github.com/priyanshu1520/leetcode/tree/master/1223-graph-connectivity-with-threshold) |
+| [1380-number-of-closed-islands](https://github.com/priyanshu1520/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/priyanshu1520/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1840-minimize-hamming-distance-after-swap-operations](https://github.com/priyanshu1520/leetcode/tree/master/1840-minimize-hamming-distance-after-swap-operations) |
 | [2035-count-sub-islands](https://github.com/priyanshu1520/leetcode/tree/master/2035-count-sub-islands) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/priyanshu1520/leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1364-tuple-with-same-product](https://github.com/priyanshu1520/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/priyanshu1520/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1380-number-of-closed-islands](https://github.com/priyanshu1520/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/priyanshu1520/leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/priyanshu1520/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/priyanshu1520/leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -1428,6 +1432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/priyanshu1520/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1104-coloring-a-border](https://github.com/priyanshu1520/leetcode/tree/master/1104-coloring-a-border) |
 | [1324-where-will-the-ball-fall](https://github.com/priyanshu1520/leetcode/tree/master/1324-where-will-the-ball-fall) |
+| [1380-number-of-closed-islands](https://github.com/priyanshu1520/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/priyanshu1520/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/priyanshu1520/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/priyanshu1520/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
