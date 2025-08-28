@@ -677,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/priyanshu1520/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3687-longest-special-path](https://github.com/priyanshu1520/leetcode/tree/master/3687-longest-special-path) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/priyanshu1520/leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/priyanshu1520/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-paint-house-iv](https://github.com/priyanshu1520/leetcode/tree/master/3737-paint-house-iv) |
 | [3738-make-array-non-decreasing](https://github.com/priyanshu1520/leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/priyanshu1520/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -1467,6 +1468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/priyanshu1520/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/priyanshu1520/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/priyanshu1520/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/priyanshu1520/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1703,6 +1705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/priyanshu1520/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/priyanshu1520/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3654-minimum-array-sum](https://github.com/priyanshu1520/leetcode/tree/master/3654-minimum-array-sum) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/priyanshu1520/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3737-paint-house-iv](https://github.com/priyanshu1520/leetcode/tree/master/3737-paint-house-iv) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
 | [3856-maximum-weighted-k-edge-path](https://github.com/priyanshu1520/leetcode/tree/master/3856-maximum-weighted-k-edge-path) |
@@ -1969,6 +1972,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-number-of-distinct-roll-sequences](https://github.com/priyanshu1520/leetcode/tree/master/2404-number-of-distinct-roll-sequences) |
 | [2409-number-of-increasing-paths-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2409-number-of-increasing-paths-in-a-grid) |
 | [3318-maximum-number-of-operations-with-the-same-score-ii](https://github.com/priyanshu1520/leetcode/tree/master/3318-maximum-number-of-operations-with-the-same-score-ii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/priyanshu1520/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Trie
 |  |
 | ------- |
