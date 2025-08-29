@@ -1256,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/priyanshu1520/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3227-find-missing-and-repeated-values](https://github.com/priyanshu1520/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/priyanshu1520/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3496-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/priyanshu1520/leetcode/tree/master/3496-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/priyanshu1520/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
