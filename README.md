@@ -1112,6 +1112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/priyanshu1520/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2725-mice-and-cheese](https://github.com/priyanshu1520/leetcode/tree/master/2725-mice-and-cheese) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/priyanshu1520/leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2811-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/priyanshu1520/leetcode/tree/master/2811-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/priyanshu1520/leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
@@ -1373,6 +1374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2700-substring-xor-queries](https://github.com/priyanshu1520/leetcode/tree/master/2700-substring-xor-queries) |
 | [2701-subsequence-with-the-minimum-score](https://github.com/priyanshu1520/leetcode/tree/master/2701-subsequence-with-the-minimum-score) |
 | [2727-number-of-senior-citizens](https://github.com/priyanshu1520/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/priyanshu1520/leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2755-extra-characters-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/priyanshu1520/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/priyanshu1520/leetcode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
@@ -1425,6 +1427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/priyanshu1520/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/priyanshu1520/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/priyanshu1520/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/priyanshu1520/leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/priyanshu1520/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/priyanshu1520/leetcode/tree/master/2846-robot-collisions) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/priyanshu1520/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -1692,6 +1695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/priyanshu1520/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/priyanshu1520/leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [2736-minimum-additions-to-make-valid-string](https://github.com/priyanshu1520/leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2755-extra-characters-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
