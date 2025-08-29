@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/priyanshu1520/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/priyanshu1520/leetcode/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1364-tuple-with-same-product](https://github.com/priyanshu1520/leetcode/tree/master/1364-tuple-with-same-product) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/priyanshu1520/leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/priyanshu1520/leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1380-number-of-closed-islands](https://github.com/priyanshu1520/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/priyanshu1520/leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
@@ -965,6 +966,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/priyanshu1520/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1290-make-array-strictly-increasing](https://github.com/priyanshu1520/leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1333-sort-the-jumbled-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/priyanshu1520/leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/priyanshu1520/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/priyanshu1520/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/priyanshu1520/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -1628,6 +1630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-k-concatenation-maximum-sum](https://github.com/priyanshu1520/leetcode/tree/master/1299-k-concatenation-maximum-sum) |
 | [1343-dice-roll-simulation](https://github.com/priyanshu1520/leetcode/tree/master/1343-dice-roll-simulation) |
 | [1348-maximum-score-of-spliced-array](https://github.com/priyanshu1520/leetcode/tree/master/1348-maximum-score-of-spliced-array) |
+| [1367-maximum-height-by-stacking-cuboids](https://github.com/priyanshu1520/leetcode/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/priyanshu1520/leetcode/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/priyanshu1520/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1403-palindrome-partitioning-iii](https://github.com/priyanshu1520/leetcode/tree/master/1403-palindrome-partitioning-iii) |
