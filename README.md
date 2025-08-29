@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/priyanshu1520/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1788-stone-game-vi](https://github.com/priyanshu1520/leetcode/tree/master/1788-stone-game-vi) |
 | [1791-richest-customer-wealth](https://github.com/priyanshu1520/leetcode/tree/master/1791-richest-customer-wealth) |
+| [1794-minimize-deviation-in-array](https://github.com/priyanshu1520/leetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1808-stone-game-vii](https://github.com/priyanshu1520/leetcode/tree/master/1808-stone-game-vii) |
 | [1813-maximum-erasure-value](https://github.com/priyanshu1520/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/priyanshu1520/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -1072,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/priyanshu1520/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1784-minimum-initial-energy-to-finish-tasks](https://github.com/priyanshu1520/leetcode/tree/master/1784-minimum-initial-energy-to-finish-tasks) |
 | [1788-stone-game-vi](https://github.com/priyanshu1520/leetcode/tree/master/1788-stone-game-vi) |
+| [1794-minimize-deviation-in-array](https://github.com/priyanshu1520/leetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1804-maximum-binary-string-after-change](https://github.com/priyanshu1520/leetcode/tree/master/1804-maximum-binary-string-after-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/priyanshu1520/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/priyanshu1520/leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
@@ -1504,6 +1506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/priyanshu1520/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/priyanshu1520/leetcode/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1788-stone-game-vi](https://github.com/priyanshu1520/leetcode/tree/master/1788-stone-game-vi) |
+| [1794-minimize-deviation-in-array](https://github.com/priyanshu1520/leetcode/tree/master/1794-minimize-deviation-in-array) |
 | [1824-maximum-number-of-eaten-apples](https://github.com/priyanshu1520/leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1879-maximum-score-from-removing-stones](https://github.com/priyanshu1520/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/priyanshu1520/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
@@ -2019,6 +2022,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/priyanshu1520/leetcode/tree/master/0456-132-pattern) |
 | [0729-my-calendar-i](https://github.com/priyanshu1520/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/priyanshu1520/leetcode/tree/master/0731-my-calendar-ii) |
+| [1794-minimize-deviation-in-array](https://github.com/priyanshu1520/leetcode/tree/master/1794-minimize-deviation-in-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2466-maximum-segment-sum-after-removals](https://github.com/priyanshu1520/leetcode/tree/master/2466-maximum-segment-sum-after-removals) |
 | [3790-fruits-into-baskets-ii](https://github.com/priyanshu1520/leetcode/tree/master/3790-fruits-into-baskets-ii) |
