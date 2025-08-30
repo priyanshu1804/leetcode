@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/priyanshu1520/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1558-course-schedule-iv](https://github.com/priyanshu1520/leetcode/tree/master/1558-course-schedule-iv) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/priyanshu1520/leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/priyanshu1520/leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/priyanshu1520/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/priyanshu1520/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/priyanshu1520/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -2075,6 +2076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/priyanshu1520/leetcode/tree/master/1656-count-good-triplets) |
 | [1723-maximum-number-of-achievable-transfer-requests](https://github.com/priyanshu1520/leetcode/tree/master/1723-maximum-number-of-achievable-transfer-requests) |
 | [1743-count-substrings-that-differ-by-one-character](https://github.com/priyanshu1520/leetcode/tree/master/1743-count-substrings-that-differ-by-one-character) |
+| [1887-minimum-degree-of-a-connected-trio-in-a-graph](https://github.com/priyanshu1520/leetcode/tree/master/1887-minimum-degree-of-a-connected-trio-in-a-graph) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/priyanshu1520/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/priyanshu1520/leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/priyanshu1520/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
