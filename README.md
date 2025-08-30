@@ -695,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/priyanshu1520/leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/priyanshu1520/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
+| [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/priyanshu1520/leetcode/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/priyanshu1520/leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/priyanshu1520/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/priyanshu1520/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -1031,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/priyanshu1520/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/priyanshu1520/leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3748-sort-matrix-by-diagonals](https://github.com/priyanshu1520/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/priyanshu1520/leetcode/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/priyanshu1520/leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Greedy
 |  |
@@ -1136,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/priyanshu1520/leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3738-make-array-non-decreasing](https://github.com/priyanshu1520/leetcode/tree/master/3738-make-array-non-decreasing) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/priyanshu1520/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/priyanshu1520/leetcode/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/priyanshu1520/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/priyanshu1520/leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/priyanshu1520/leetcode/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
@@ -1281,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/priyanshu1520/leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/priyanshu1520/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/priyanshu1520/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/priyanshu1520/leetcode/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/priyanshu1520/leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
 | [3936-split-array-by-prime-indices](https://github.com/priyanshu1520/leetcode/tree/master/3936-split-array-by-prime-indices) |
 ## String
@@ -2122,6 +2126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2039-sum-game](https://github.com/priyanshu1520/leetcode/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/priyanshu1520/leetcode/tree/master/2156-stone-game-ix) |
 | [3462-vowels-game-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/priyanshu1520/leetcode/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 ## Bitmask
 |  |
 | ------- |
