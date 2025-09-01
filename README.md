@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1896-maximum-score-from-performing-multiplication-operations](https://github.com/priyanshu1520/leetcode/tree/master/1896-maximum-score-from-performing-multiplication-operations) |
 | [1906-maximize-score-after-n-operations](https://github.com/priyanshu1520/leetcode/tree/master/1906-maximize-score-after-n-operations) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/priyanshu1520/leetcode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
+| [1917-maximum-average-pass-ratio](https://github.com/priyanshu1520/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/priyanshu1520/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/priyanshu1520/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/priyanshu1520/leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
@@ -1092,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/priyanshu1520/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1879-maximum-score-from-removing-stones](https://github.com/priyanshu1520/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1911-minimum-elements-to-add-to-form-a-given-sum](https://github.com/priyanshu1520/leetcode/tree/master/1911-minimum-elements-to-add-to-form-a-given-sum) |
+| [1917-maximum-average-pass-ratio](https://github.com/priyanshu1520/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/priyanshu1520/leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1952-minimum-sideway-jumps](https://github.com/priyanshu1520/leetcode/tree/master/1952-minimum-sideway-jumps) |
 | [2039-sum-game](https://github.com/priyanshu1520/leetcode/tree/master/2039-sum-game) |
@@ -1526,6 +1528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1824-maximum-number-of-eaten-apples](https://github.com/priyanshu1520/leetcode/tree/master/1824-maximum-number-of-eaten-apples) |
 | [1879-maximum-score-from-removing-stones](https://github.com/priyanshu1520/leetcode/tree/master/1879-maximum-score-from-removing-stones) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/priyanshu1520/leetcode/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
+| [1917-maximum-average-pass-ratio](https://github.com/priyanshu1520/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/priyanshu1520/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/priyanshu1520/leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/priyanshu1520/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
