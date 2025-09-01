@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/priyanshu1520/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2662-check-knight-tour-configuration](https://github.com/priyanshu1520/leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/priyanshu1520/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2739-minimize-the-total-price-of-the-trips](https://github.com/priyanshu1520/leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/priyanshu1520/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/priyanshu1520/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/priyanshu1520/leetcode/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/priyanshu1520/leetcode/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2739-minimize-the-total-price-of-the-trips](https://github.com/priyanshu1520/leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2793-count-the-number-of-complete-components](https://github.com/priyanshu1520/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/priyanshu1520/leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/priyanshu1520/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2597-cycle-length-queries-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/2597-cycle-length-queries-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/priyanshu1520/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2739-minimize-the-total-price-of-the-trips](https://github.com/priyanshu1520/leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/priyanshu1520/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/3112-count-valid-paths-in-a-tree) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/priyanshu1520/leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2725-mice-and-cheese](https://github.com/priyanshu1520/leetcode/tree/master/2725-mice-and-cheese) |
 | [2727-number-of-senior-citizens](https://github.com/priyanshu1520/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2739-minimize-the-total-price-of-the-trips](https://github.com/priyanshu1520/leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2751-sliding-subarray-beauty](https://github.com/priyanshu1520/leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [2755-extra-characters-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1719,6 +1723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/priyanshu1520/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/priyanshu1520/leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/priyanshu1520/leetcode/tree/master/2736-minimum-additions-to-make-valid-string) |
+| [2739-minimize-the-total-price-of-the-trips](https://github.com/priyanshu1520/leetcode/tree/master/2739-minimize-the-total-price-of-the-trips) |
 | [2755-extra-characters-in-a-string](https://github.com/priyanshu1520/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2780-make-costs-of-paths-equal-in-a-binary-tree](https://github.com/priyanshu1520/leetcode/tree/master/2780-make-costs-of-paths-equal-in-a-binary-tree) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/priyanshu1520/leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
