@@ -715,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3885-count-special-triplets](https://github.com/priyanshu1520/leetcode/tree/master/3885-count-special-triplets) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/priyanshu1520/leetcode/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3904-minimum-adjacent-swaps-to-alternate-parity](https://github.com/priyanshu1520/leetcode/tree/master/3904-minimum-adjacent-swaps-to-alternate-parity) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/priyanshu1520/leetcode/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 | [3936-split-array-by-prime-indices](https://github.com/priyanshu1520/leetcode/tree/master/3936-split-array-by-prime-indices) |
 ## Hash Table
@@ -1303,6 +1304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/priyanshu1520/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3766-maximum-median-sum-of-subsequences-of-size-3](https://github.com/priyanshu1520/leetcode/tree/master/3766-maximum-median-sum-of-subsequences-of-size-3) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/priyanshu1520/leetcode/tree/master/3785-find-the-number-of-copy-arrays) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3936-split-array-by-prime-indices](https://github.com/priyanshu1520/leetcode/tree/master/3936-split-array-by-prime-indices) |
 ## String
 |  |
@@ -1823,6 +1825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/priyanshu1520/leetcode/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/priyanshu1520/leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/priyanshu1520/leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -1991,6 +1994,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/priyanshu1520/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3112-count-valid-paths-in-a-tree](https://github.com/priyanshu1520/leetcode/tree/master/3112-count-valid-paths-in-a-tree) |
 | [3608-find-the-number-of-subsequences-with-equal-gcd](https://github.com/priyanshu1520/leetcode/tree/master/3608-find-the-number-of-subsequences-with-equal-gcd) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3936-split-array-by-prime-indices](https://github.com/priyanshu1520/leetcode/tree/master/3936-split-array-by-prime-indices) |
 ## Brainteaser
 |  |
@@ -2065,6 +2069,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/priyanshu1520/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/priyanshu1520/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/priyanshu1520/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -2123,6 +2128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/priyanshu1520/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/priyanshu1520/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/priyanshu1520/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/priyanshu1520/leetcode/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Eulerian Circuit
 |  |
 | ------- |
