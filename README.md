@@ -1394,6 +1394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/priyanshu1520/leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/priyanshu1520/leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/priyanshu1520/leetcode/tree/master/2576-minimum-penalty-for-a-shop) |
+| [2577-count-palindromic-subsequences](https://github.com/priyanshu1520/leetcode/tree/master/2577-count-palindromic-subsequences) |
 | [2580-circular-sentence](https://github.com/priyanshu1520/leetcode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/priyanshu1520/leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/priyanshu1520/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -1722,6 +1723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/priyanshu1520/leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/priyanshu1520/leetcode/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2562-count-ways-to-build-good-strings](https://github.com/priyanshu1520/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
+| [2577-count-palindromic-subsequences](https://github.com/priyanshu1520/leetcode/tree/master/2577-count-palindromic-subsequences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/priyanshu1520/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/priyanshu1520/leetcode/tree/master/2641-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/priyanshu1520/leetcode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
